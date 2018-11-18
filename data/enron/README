@@ -1,0 +1,13 @@
+This is a communication network of emails where nodes represent email addresses and directed edges represent email communications (e.g., for an edge u->v, u sent v an email).
+
+This network is obtained from Enron dataset which is available at https://www.kaggle.com/jamestollefson/enron-network-analysis/data.
+
+You can refer to https://www.kaggle.com/jamestollefson/enron-network-analysis/notebook in order to preprocess the dataset.
+
+edges.tsv: edge list file
+    * format: source node \t target node
+    * # of nodes: 9,958
+    * # of edges: 53,116
+
+node_labels.tsv: node labels file
+    * format: node_id \t node_label (email address)

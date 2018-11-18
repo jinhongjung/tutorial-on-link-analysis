@@ -1,0 +1,2626 @@
+node_id	type	name	gender/genres	age	job
+0	user	james	M	24	technician
+1	user	patricia	F	53	other
+2	user	robert	M	23	writer
+3	user	michael	M	24	technician
+4	user	elizabeth	F	33	other
+5	user	david	M	42	executive
+6	user	richard	M	57	administrator
+7	user	charles	M	36	administrator
+8	user	joseph	M	29	student
+9	user	thomas	M	53	lawyer
+10	user	lisa	F	39	other
+11	user	nancy	F	28	other
+12	user	paul	M	47	educator
+13	user	mark	M	45	scientist
+14	user	helen	F	49	educator
+15	user	george	M	21	entertainment
+16	user	kenneth	M	30	programmer
+17	user	carol	F	35	other
+18	user	edward	M	40	librarian
+19	user	sharon	F	42	homemaker
+20	user	ronald	M	26	writer
+21	user	anthony	M	25	writer
+22	user	sarah	F	30	artist
+23	user	kimberly	F	21	artist
+24	user	matthew	M	39	engineer
+25	user	gary	M	49	engineer
+26	user	shirley	F	40	librarian
+27	user	jose	M	32	writer
+28	user	larry	M	41	programmer
+29	user	jeffrey	M	7	student
+30	user	frank	M	24	artist
+31	user	amy	F	28	student
+32	user	eric	M	23	student
+33	user	rebecca	F	38	administrator
+34	user	virginia	F	20	homemaker
+35	user	kathleen	F	19	student
+36	user	gregory	M	23	student
+37	user	martha	F	28	other
+38	user	jerry	M	41	entertainment
+39	user	dennis	M	38	scientist
+40	user	walter	M	33	engineer
+41	user	patrick	M	30	administrator
+42	user	christine	F	29	librarian
+43	user	harold	M	26	technician
+44	user	douglas	M	29	programmer
+45	user	catherine	F	27	marketing
+46	user	carl	M	53	marketing
+47	user	arthur	M	45	administrator
+48	user	joyce	F	23	student
+49	user	roger	M	21	writer
+50	user	joe	M	28	educator
+51	user	julie	F	18	student
+52	user	jack	M	26	programmer
+53	user	albert	M	22	executive
+54	user	jonathan	M	37	programmer
+55	user	justin	M	25	librarian
+56	user	terry	M	16	none
+57	user	gerald	M	27	programmer
+58	user	keith	M	49	educator
+59	user	samuel	M	50	healthcare
+60	user	willie	M	36	engineer
+61	user	joan	F	27	administrator
+62	user	lawrence	M	31	marketing
+63	user	nicholas	M	32	educator
+64	user	rose	F	51	educator
+65	user	benjamin	M	23	student
+66	user	bruce	M	17	student
+67	user	brandon	M	19	student
+68	user	adam	M	24	engineer
+69	user	harry	M	27	engineer
+70	user	fred	M	39	scientist
+71	user	theresa	F	48	administrator
+72	user	billy	M	24	student
+73	user	steve	M	39	scientist
+74	user	louis	M	24	entertainment
+75	user	jeremy	M	20	student
+76	user	aaron	M	30	technician
+77	user	randy	M	26	administrator
+78	user	rachel	F	39	administrator
+79	user	marilyn	F	34	administrator
+80	user	carlos	M	21	student
+81	user	russell	M	50	programmer
+82	user	bobby	M	40	other
+83	user	victor	M	32	executive
+84	user	martin	M	51	educator
+85	user	ernest	M	26	administrator
+86	user	phillip	M	47	administrator
+87	user	bonnie	F	49	librarian
+88	user	julia	F	43	administrator
+89	user	craig	M	60	educator
+90	user	alan	M	55	marketing
+91	user	shawn	M	32	entertainment
+92	user	clarence	M	48	executive
+93	user	sean	M	26	student
+94	user	philip	M	31	administrator
+95	user	diana	F	25	artist
+96	user	johnny	M	43	artist
+97	user	lillian	F	49	executive
+98	user	jimmy	M	20	student
+99	user	antonio	M	36	executive
+100	user	danny	M	15	student
+101	user	bryan	M	38	programmer
+102	user	tony	M	26	student
+103	user	luis	M	27	student
+104	user	mike	M	24	engineer
+105	user	stanley	M	61	retired
+106	user	leonard	M	39	scientist
+107	user	nathan	M	44	educator
+108	user	dale	M	29	other
+109	user	manuel	M	19	student
+110	user	rodney	M	57	engineer
+111	user	curtis	M	30	salesman
+112	user	norman	M	47	executive
+113	user	allen	M	27	programmer
+114	user	marvin	M	31	engineer
+115	user	vincent	M	40	healthcare
+116	user	glenn	M	20	student
+117	user	jeffery	M	21	administrator
+118	user	travis	M	32	programmer
+119	user	sylvia	F	47	other
+120	user	chad	M	54	librarian
+121	user	thelma	F	32	writer
+122	user	shannon	F	48	artist
+123	user	melvin	M	34	student
+124	user	alfred	M	30	lawyer
+125	user	ellen	F	28	lawyer
+126	user	francis	M	33	none
+127	user	marjorie	F	24	marketing
+128	user	carrie	F	36	marketing
+129	user	herbert	M	20	none
+130	user	monica	F	59	administrator
+131	user	ray	M	24	other
+132	user	joel	M	53	engineer
+133	user	edwin	M	31	programmer
+134	user	don	M	23	student
+135	user	eddie	M	51	other
+136	user	ricky	M	50	educator
+137	user	troy	M	46	doctor
+138	user	randall	M	20	student
+139	user	eva	F	30	student
+140	user	alexander	M	49	programmer
+141	user	bernard	M	13	other
+142	user	mario	M	42	technician
+143	user	leroy	M	53	programmer
+144	user	francisco	M	31	entertainment
+145	user	marcus	M	45	artist
+146	user	joanne	F	40	librarian
+147	user	theodore	M	33	engineer
+148	user	valerie	F	35	marketing
+149	user	danielle	F	20	artist
+150	user	megan	F	38	administrator
+151	user	alicia	F	33	educator
+152	user	jim	M	25	student
+153	user	tom	M	25	student
+154	user	gail	F	32	other
+155	user	alex	M	25	educator
+156	user	jon	M	57	engineer
+157	user	ronnie	M	50	educator
+158	user	jill	F	23	student
+159	user	lloyd	M	27	programmer
+160	user	tommy	M	50	lawyer
+161	user	leon	M	25	artist
+162	user	derek	M	49	administrator
+163	user	warren	M	47	healthcare
+164	user	lorraine	F	20	other
+165	user	jerome	M	47	educator
+166	user	floyd	M	37	other
+167	user	leo	M	48	other
+168	user	erica	F	52	other
+169	user	beatrice	F	53	healthcare
+170	user	dolores	F	48	educator
+171	user	gordon	M	55	marketing
+172	user	dean	M	56	other
+173	user	yvonne	F	30	administrator
+174	user	annette	F	26	scientist
+175	user	dustin	M	28	scientist
+176	user	pedro	M	20	programmer
+177	user	derrick	M	26	other
+178	user	dan	M	15	entertainment
+179	user	stacy	F	22	administrator
+180	user	zachary	M	26	executive
+181	user	corey	M	36	programmer
+182	user	herman	M	33	scientist
+183	user	maurice	M	37	librarian
+184	user	roberta	F	53	librarian
+185	user	holly	F	39	executive
+186	user	clyde	M	26	educator
+187	user	glen	M	42	student
+188	user	hector	M	32	artist
+189	user	shane	M	30	administrator
+190	user	ricardo	M	33	administrator
+191	user	sam	M	42	educator
+192	user	rick	M	29	student
+193	user	lester	M	38	administrator
+194	user	brent	M	42	scientist
+195	user	ramon	M	49	writer
+196	user	charlie	M	55	technician
+197	user	elsie	F	21	student
+198	user	gilbert	M	30	writer
+199	user	gene	M	40	programmer
+200	user	marc	M	27	writer
+201	user	carla	F	41	educator
+202	user	tara	F	25	student
+203	user	rosemary	F	52	librarian
+204	user	angel	M	47	lawyer
+205	user	terri	F	14	student
+206	user	rafael	M	39	marketing
+207	user	leslie	M	43	engineer
+208	user	tonya	F	33	educator
+209	user	milton	M	39	engineer
+210	user	raul	M	66	salesman
+211	user	wilma	F	49	educator
+212	user	chester	M	33	executive
+213	user	kristin	F	26	librarian
+214	user	duane	M	35	programmer
+215	user	franklin	M	22	engineer
+216	user	andre	M	22	other
+217	user	elmer	M	37	administrator
+218	user	brad	M	32	programmer
+219	user	gabriel	M	30	librarian
+220	user	ron	M	19	student
+221	user	mitchell	M	29	programmer
+222	user	melinda	F	19	student
+223	user	pearl	F	31	educator
+224	user	arlene	F	51	administrator
+225	user	jared	M	28	student
+226	user	adrian	M	46	executive
+227	user	allison	F	21	student
+228	user	tamara	F	29	librarian
+229	user	joy	F	28	student
+230	user	erik	M	48	librarian
+231	user	darryl	M	45	scientist
+232	user	jamie	M	38	engineer
+233	user	neil	M	60	retired
+234	user	jessie	M	37	educator
+235	user	marcia	F	44	writer
+236	user	javier	M	49	administrator
+237	user	nellie	F	42	administrator
+238	user	clinton	M	39	artist
+239	user	marlene	F	23	educator
+240	user	heidi	F	26	student
+241	user	tyrone	M	33	educator
+242	user	darren	M	33	educator
+243	user	lonnie	M	28	technician
+244	user	lance	M	22	student
+245	user	cody	M	19	student
+246	user	julio	M	28	engineer
+247	user	kelly	M	25	student
+248	user	kurt	M	25	student
+249	user	allan	M	29	executive
+250	user	nelson	M	28	doctor
+251	user	guy	M	42	engineer
+252	user	terry	F	26	librarian
+253	user	hugh	M	44	educator
+254	user	max	M	23	entertainment
+255	user	mabel	F	35	none
+256	user	dwight	M	17	student
+257	user	myrtle	F	19	student
+258	user	felix	M	21	student
+259	user	christy	F	40	artist
+260	user	everett	M	28	administrator
+261	user	patsy	F	19	student
+262	user	ian	M	41	programmer
+263	user	gwendolyn	F	36	writer
+264	user	ken	M	26	executive
+265	user	nora	F	62	administrator
+266	user	jaime	M	23	engineer
+267	user	casey	M	24	engineer
+268	user	cassandra	F	31	librarian
+269	user	leah	F	18	student
+270	user	dave	M	51	engineer
+271	user	ivan	M	33	scientist
+272	user	priscilla	F	50	other
+273	user	naomi	F	20	student
+274	user	byron	M	38	engineer
+275	user	julian	M	21	student
+276	user	olga	F	35	administrator
+277	user	billie	F	37	librarian
+278	user	clifton	M	33	programmer
+279	user	tracey	F	30	librarian
+280	user	leona	F	15	student
+281	user	ross	M	22	administrator
+282	user	virgil	M	28	programmer
+283	user	andy	M	40	executive
+284	user	marshall	M	25	programmer
+285	user	salvador	M	27	student
+286	user	perry	M	21	salesman
+287	user	kirk	M	34	marketing
+288	user	sergio	M	11	none
+289	user	marion	M	40	engineer
+290	user	tracy	M	19	student
+291	user	misty	F	35	programmer
+292	user	kent	M	24	writer
+293	user	terrance	M	34	technician
+294	user	rene	M	31	educator
+295	user	ramona	F	43	administrator
+296	user	sherri	F	29	educator
+297	user	enrique	M	44	executive
+298	user	freddie	M	29	doctor
+299	user	claire	F	26	programmer
+300	user	austin	M	24	student
+301	user	stuart	M	42	educator
+302	user	fredrick	M	19	student
+303	user	guadalupe	F	22	student
+304	user	alejandro	M	23	programmer
+305	user	jackie	M	45	other
+306	user	joey	M	25	student
+307	user	nick	M	60	retired
+308	user	luther	M	40	scientist
+309	user	wendell	M	37	educator
+310	user	jeremiah	M	32	technician
+311	user	evan	M	48	other
+312	user	julius	M	41	marketing
+313	user	marguerite	F	20	student
+314	user	donnie	M	31	educator
+315	user	harriet	F	43	other
+316	user	shannon	M	22	administrator
+317	user	trevor	M	65	retired
+318	user	oliver	M	38	programmer
+319	user	luke	M	19	student
+320	user	blanche	F	49	educator
+321	user	gerard	M	20	student
+322	user	doug	M	21	student
+323	user	joanna	F	21	student
+324	user	hubert	M	48	technician
+325	user	angelo	M	41	administrator
+326	user	shaun	M	22	student
+327	user	lyle	M	51	administrator
+328	user	matt	M	48	educator
+329	user	madeline	F	35	educator
+330	user	alfonso	M	33	entertainment
+331	user	orlando	M	20	student
+332	user	rex	M	47	other
+333	user	carlton	M	32	librarian
+334	user	ernesto	M	45	executive
+335	user	cameron	M	23	salesman
+336	user	neal	M	37	scientist
+337	user	kayla	F	39	librarian
+338	user	lorenzo	M	35	lawyer
+339	user	omar	M	46	engineer
+340	user	lee	F	17	student
+341	user	kristine	F	25	other
+342	user	grant	M	43	engineer
+343	user	fannie	F	30	librarian
+344	user	maryann	F	28	librarian
+345	user	kerry	M	34	other
+346	user	abraham	M	18	student
+347	user	yvette	F	24	student
+348	user	rickey	M	68	retired
+349	user	jean	M	32	student
+350	user	ira	M	61	educator
+351	user	olivia	F	37	programmer
+352	user	cesar	M	25	scientist
+353	user	shelley	F	29	librarian
+354	user	malcolm	M	25	student
+355	user	mamie	F	32	homemaker
+356	user	damon	M	26	executive
+357	user	kelvin	M	40	educator
+358	user	rudy	M	22	student
+359	user	preston	M	51	other
+360	user	alton	M	22	student
+361	user	candice	F	35	homemaker
+362	user	marco	M	20	student
+363	user	wm	M	63	engineer
+364	user	pete	M	29	lawyer
+365	user	kelli	F	20	student
+366	user	garry	M	17	student
+367	user	geoffrey	M	18	student
+368	user	jonathon	M	24	student
+369	user	felipe	M	52	writer
+370	user	bennie	M	36	engineer
+371	user	latoya	F	25	student
+372	user	patty	F	24	other
+373	user	dominic	M	36	executive
+374	user	robin	M	17	entertainment
+375	user	della	F	28	other
+376	user	delbert	M	22	student
+377	user	colin	M	35	student
+378	user	guillermo	M	44	programmer
+379	user	earnest	M	32	engineer
+380	user	lucas	M	33	artist
+381	user	benny	M	45	engineer
+382	user	noel	M	42	administrator
+383	user	spencer	M	52	programmer
+384	user	rodolfo	M	36	writer
+385	user	myron	M	36	salesman
+386	user	edmund	M	33	entertainment
+387	user	garrett	M	31	other
+388	user	roxanne	F	44	writer
+389	user	angelica	F	42	writer
+390	user	lowell	M	23	student
+391	user	gregg	M	52	writer
+392	user	sherman	M	19	student
+393	user	wilson	M	25	administrator
+394	user	devin	M	43	other
+395	user	sylvester	M	57	engineer
+396	user	kim	M	17	student
+397	user	roosevelt	M	40	other
+398	user	israel	M	25	other
+399	user	bernadette	F	33	administrator
+400	user	traci	F	46	healthcare
+401	user	wilbert	M	30	engineer
+402	user	leland	M	37	other
+403	user	jasmine	F	29	programmer
+404	user	nichole	F	22	healthcare
+405	user	clark	M	52	educator
+406	user	irving	M	29	engineer
+407	user	carroll	M	23	student
+408	user	bryant	M	48	administrator
+409	user	muriel	F	30	artist
+410	user	rufus	M	34	educator
+411	user	woodrow	M	25	educator
+412	user	sammy	M	55	educator
+413	user	kristopher	M	24	programmer
+414	user	mack	M	39	educator
+415	user	kari	F	20	student
+416	user	estelle	F	27	other
+417	user	dianna	F	55	none
+418	user	jake	M	37	lawyer
+419	user	lionel	M	53	educator
+420	user	mona	F	38	programmer
+421	user	taylor	M	26	entertainment
+422	user	ellis	M	64	other
+423	user	angel	F	36	marketing
+424	user	gilberto	M	19	student
+425	user	clint	M	55	educator
+426	user	nicolas	M	51	doctor
+427	user	laurence	M	28	student
+428	user	ismael	M	27	student
+429	user	orville	M	38	scientist
+430	user	drew	M	24	marketing
+431	user	jody	M	22	entertainment
+432	user	ervin	M	27	artist
+433	user	meredith	F	16	student
+434	user	al	M	24	engineer
+435	user	teri	F	30	administrator
+436	user	cristina	F	27	other
+437	user	eula	F	51	administrator
+438	user	leigh	F	23	administrator
+439	user	caleb	M	30	other
+440	user	tomas	M	50	technician
+441	user	sheldon	M	22	student
+442	user	erick	M	35	salesman
+443	user	gretchen	F	51	lawyer
+444	user	stewart	M	21	writer
+445	user	doyle	M	57	educator
+446	user	darrel	M	30	administrator
+447	user	rogelio	M	23	entertainment
+448	user	terence	M	23	librarian
+449	user	kelley	F	35	educator
+450	user	alonzo	M	16	student
+451	user	elias	M	35	administrator
+452	user	bert	M	18	student
+453	user	elbert	M	57	other
+454	user	ramiro	M	48	administrator
+455	user	conrad	M	24	technician
+456	user	alexis	F	33	salesman
+457	user	noah	M	47	technician
+458	user	grady	M	22	student
+459	user	elvira	F	44	other
+460	user	cornelius	M	15	student
+461	user	delia	F	19	student
+462	user	sophie	F	48	healthcare
+463	user	clay	M	60	writer
+464	user	percy	M	32	other
+465	user	dexter	M	22	student
+466	user	bradford	M	29	engineer
+467	user	merle	M	28	engineer
+468	user	darin	M	60	educator
+469	user	amos	M	24	programmer
+470	user	terrell	M	10	student
+471	user	moses	M	24	student
+472	user	irvin	M	29	student
+473	user	saul	M	51	executive
+474	user	roman	M	30	programmer
+475	user	darnell	M	28	student
+476	user	elsa	F	23	student
+477	user	tommie	M	29	other
+478	user	timmy	M	30	educator
+479	user	darrin	M	57	retired
+480	user	winston	M	73	retired
+481	user	lucia	F	18	student
+482	user	toby	M	29	scientist
+483	user	van	M	27	student
+484	user	lela	F	44	educator
+485	user	dominick	M	39	educator
+486	user	boyd	M	22	engineer
+487	user	courtney	M	48	technician
+488	user	jan	M	55	other
+489	user	shawna	F	29	artist
+490	user	elisa	F	43	writer
+491	user	cary	M	57	educator
+492	user	domingo	M	22	engineer
+493	user	ora	F	38	administrator
+494	user	aubrey	M	29	engineer
+495	user	tabitha	F	21	student
+496	user	marlon	M	20	student
+497	user	emanuel	M	26	writer
+498	user	jerald	M	42	programmer
+499	user	edmond	M	28	administrator
+500	user	emil	M	22	student
+501	user	dewayne	M	22	student
+502	user	aimee	F	50	writer
+503	user	rena	F	40	writer
+504	user	myrna	F	27	other
+505	user	reynaldo	M	46	programmer
+506	user	tammie	F	18	writer
+507	user	morgan	M	27	marketing
+508	user	jess	M	23	administrator
+509	user	trent	M	34	other
+510	user	humberto	M	22	student
+511	user	emmanuel	M	29	other
+512	user	stephan	M	43	administrator
+513	user	louie	M	27	programmer
+514	user	vicente	M	53	marketing
+515	user	stacie	F	53	librarian
+516	user	stacy	M	24	student
+517	user	cheri	F	49	writer
+518	user	miles	M	22	other
+519	user	micah	M	62	healthcare
+520	user	efrain	M	19	student
+521	user	billie	M	36	engineer
+522	user	cara	F	50	administrator
+523	user	heath	M	56	educator
+524	user	rebekah	F	27	administrator
+525	user	harley	M	30	marketing
+526	user	demetrius	M	33	librarian
+527	user	ethan	M	18	student
+528	user	effie	F	47	administrator
+529	user	rocky	M	29	engineer
+530	user	reba	F	30	salesman
+531	user	junior	M	20	student
+532	user	freddy	M	43	librarian
+533	user	eli	M	20	student
+534	user	lenora	F	45	educator
+535	user	antoine	M	38	engineer
+536	user	robbie	M	36	engineer
+537	user	kendall	M	31	scientist
+538	user	trisha	F	53	administrator
+539	user	sterling	M	28	engineer
+540	user	estella	F	19	student
+541	user	chase	M	21	student
+542	user	grover	M	33	scientist
+543	user	tracie	F	44	other
+544	user	cleveland	M	27	technician
+545	user	dylan	M	36	executive
+546	user	chuck	M	50	educator
+547	user	damian	M	51	writer
+548	user	reuben	M	42	scientist
+549	user	laurel	F	16	student
+550	user	august	M	25	programmer
+551	user	leonardo	M	45	other
+552	user	jasper	M	58	educator
+553	user	russel	M	32	scientist
+554	user	kelsey	F	29	educator
+555	user	ina	F	35	educator
+556	user	bettie	F	30	writer
+557	user	elisabeth	F	56	writer
+558	user	blaine	M	69	executive
+559	user	ernie	M	32	student
+560	user	curt	M	23	engineer
+561	user	iva	F	54	administrator
+562	user	eugenia	F	39	librarian
+563	user	murray	M	65	retired
+564	user	jamal	M	40	student
+565	user	devon	M	20	student
+566	user	adolfo	M	24	entertainment
+567	user	harrison	M	39	educator
+568	user	tyson	M	34	educator
+569	user	burton	M	26	educator
+570	user	brady	M	34	artist
+571	user	elliott	M	51	educator
+572	user	wilfredo	M	68	retired
+573	user	bart	M	56	educator
+574	user	jarrod	M	33	marketing
+575	user	vance	M	48	executive
+576	user	consuelo	F	36	student
+577	user	damien	M	31	administrator
+578	user	joaquin	M	32	educator
+579	user	harlan	M	16	student
+580	user	desmond	M	37	other
+581	user	elliot	M	17	student
+582	user	darwin	M	44	engineer
+583	user	ashley	M	25	student
+584	user	gregorio	M	69	librarian
+585	user	buddy	M	20	student
+586	user	xavier	M	26	other
+587	user	nell	F	18	student
+588	user	roscoe	M	21	lawyer
+589	user	esteban	M	50	educator
+590	user	patrica	F	57	librarian
+591	user	solomon	M	18	student
+592	user	shanna	F	31	educator
+593	user	norbert	M	46	educator
+594	user	elvin	M	25	programmer
+595	user	williams	M	20	artist
+596	user	nolan	M	23	other
+597	user	rosario	F	40	marketing
+598	user	ola	F	22	student
+599	user	quinton	M	34	programmer
+600	user	mollie	F	19	artist
+601	user	lupe	F	47	other
+602	user	rob	M	21	programmer
+603	user	elwood	M	39	educator
+604	user	kendrick	M	33	engineer
+605	user	darius	M	28	programmer
+606	user	bette	F	49	healthcare
+607	user	son	M	22	other
+608	user	elise	F	13	student
+609	user	fidel	M	22	student
+610	user	thaddeus	M	46	librarian
+611	user	cliff	M	36	educator
+612	user	jocelyn	F	37	marketing
+613	user	ali	M	54	educator
+614	user	jackson	M	38	educator
+615	user	raphael	M	55	scientist
+616	user	leola	F	27	writer
+617	user	daphne	F	15	student
+618	user	alvaro	M	17	student
+619	user	ester	F	18	writer
+620	user	dane	M	17	student
+621	user	joesph	M	25	programmer
+622	user	imogene	F	50	educator
+623	user	ned	M	19	student
+624	user	sammie	M	27	programmer
+625	user	rusty	M	23	scientist
+626	user	michel	M	24	engineer
+627	user	monty	M	13	none
+628	user	keri	F	46	other
+629	user	ursula	F	26	healthcare
+630	user	lizzie	F	18	student
+631	user	mason	M	18	student
+632	user	graham	M	35	programmer
+633	user	kris	M	39	engineer
+634	user	isaiah	M	22	other
+635	user	vaughn	M	47	educator
+636	user	gus	M	30	other
+637	user	avery	M	45	engineer
+638	user	sondra	F	42	librarian
+639	user	diego	M	20	student
+640	user	alexis	M	24	student
+641	user	rosalind	F	18	student
+642	user	norris	M	39	scientist
+643	user	millard	M	51	retired
+644	user	rocco	M	27	programmer
+645	user	marisol	F	17	student
+646	user	derick	M	40	educator
+647	user	rodrigo	M	43	engineer
+648	user	gerry	M	20	student
+649	user	stacey	M	42	engineer
+650	user	carmen	M	65	retired
+651	user	wiley	M	35	other
+652	user	rigoberto	M	31	executive
+653	user	shauna	F	27	student
+654	user	millie	F	50	healthcare
+655	user	shelby	M	48	educator
+656	user	cathleen	F	26	none
+657	user	noe	M	33	programmer
+658	user	vern	M	31	educator
+659	user	bobbie	M	26	student
+660	user	reed	M	28	programmer
+661	user	jefferson	M	55	librarian
+662	user	elvis	M	26	other
+663	user	bernardo	M	30	engineer
+664	user	mauricio	M	25	administrator
+665	user	hiram	M	44	administrator
+666	user	donovan	M	35	librarian
+667	user	justine	F	29	writer
+668	user	riley	M	37	other
+669	user	ollie	M	30	technician
+670	user	nickolas	M	21	programmer
+671	user	dominique	F	54	administrator
+672	user	scot	M	51	educator
+673	user	rene	F	13	student
+674	user	quincy	M	34	other
+675	user	eddy	M	30	programmer
+676	user	sebastian	M	20	other
+677	user	federico	M	50	educator
+678	user	bobbi	F	20	student
+679	user	heriberto	M	33	lawyer
+680	user	lucile	F	44	marketing
+681	user	cole	M	23	programmer
+682	user	denny	M	42	librarian
+683	user	davis	M	28	student
+684	user	aileen	F	32	librarian
+685	user	emery	M	32	educator
+686	user	ladonna	F	31	healthcare
+687	user	willa	F	37	administrator
+688	user	jayson	M	25	other
+689	user	dion	M	35	salesman
+690	user	dante	M	34	educator
+691	user	clement	M	34	engineer
+692	user	sybil	F	43	healthcare
+693	user	odell	M	60	programmer
+694	user	maxwell	M	26	writer
+695	user	jarvis	M	55	other
+696	user	bruno	M	25	other
+697	user	dee	F	28	programmer
+698	user	mary	M	44	other
+699	user	dudley	M	17	student
+700	user	luisa	F	51	librarian
+701	user	sanford	M	37	other
+702	user	colby	M	26	educator
+703	user	ofelia	F	51	librarian
+704	user	meagan	F	21	student
+705	user	nestor	M	23	student
+706	user	matilda	F	56	librarian
+707	user	leila	F	26	homemaker
+708	user	donny	M	21	other
+709	user	art	M	19	student
+710	user	simone	F	22	student
+711	user	bettye	F	22	student
+712	user	randi	F	42	other
+713	user	galen	M	26	engineer
+714	user	isidro	M	21	technician
+715	user	barbra	F	36	administrator
+716	user	delmar	M	24	technician
+717	user	johnathon	M	42	technician
+718	user	leann	F	37	other
+719	user	bridgette	F	49	administrator
+720	user	rhoda	F	24	entertainment
+721	user	haley	F	50	homemaker
+722	user	irwin	M	26	executive
+723	user	cruz	M	31	executive
+724	user	merlin	M	21	student
+725	user	flossie	F	25	administrator
+726	user	charley	M	25	student
+727	user	marcelino	M	58	executive
+728	user	lane	M	19	student
+729	user	nelda	F	31	scientist
+730	user	minerva	F	41	educator
+731	user	lilly	F	28	other
+732	user	terrie	F	44	other
+733	user	letha	F	25	other
+734	user	hilary	F	29	healthcare
+735	user	estela	F	48	writer
+736	user	winfred	M	30	programmer
+737	user	vito	M	35	technician
+738	user	collin	M	35	technician
+739	user	earline	F	25	educator
+740	user	carter	M	25	writer
+741	user	leonel	M	35	student
+742	user	emory	M	31	programmer
+743	user	pasquale	M	35	marketing
+744	user	mohammad	M	42	writer
+745	user	mariano	M	25	engineer
+746	user	danial	M	19	other
+747	user	blair	M	28	administrator
+748	user	landon	M	33	other
+749	user	dirk	M	28	administrator
+750	user	rae	F	24	other
+751	user	adan	M	60	retired
+752	user	numbers	M	56	salesman
+753	user	jami	F	59	librarian
+754	user	elnora	F	44	educator
+755	user	chandra	F	30	none
+756	user	bernie	M	26	student
+757	user	wilmer	M	27	student
+758	user	marylou	F	20	student
+759	user	melisa	F	35	other
+760	user	zachery	M	17	student
+761	user	fletcher	M	32	administrator
+762	user	jacques	M	27	scientist
+763	user	allie	F	27	educator
+764	user	dalton	M	31	student
+765	user	monroe	M	42	other
+766	user	josue	M	70	engineer
+767	user	dominique	M	29	administrator
+768	user	edwardo	M	39	executive
+769	user	booker	M	28	student
+770	user	wilford	M	26	student
+771	user	sonny	M	50	writer
+772	user	shelton	M	20	student
+773	user	carson	M	30	student
+774	user	theron	M	46	executive
+775	user	raymundo	M	30	librarian
+776	user	daren	M	63	programmer
+777	user	tristan	M	34	student
+778	user	houston	M	31	student
+779	user	robby	M	49	programmer
+780	user	lincoln	M	20	student
+781	user	pearlie	F	21	artist
+782	user	genaro	M	30	marketing
+783	user	gale	M	47	administrator
+784	user	bennett	M	32	engineer
+785	user	tameka	F	36	engineer
+786	user	saundra	F	18	student
+787	user	laverne	M	51	administrator
+788	user	hung	M	29	other
+789	user	arron	M	27	technician
+790	user	antony	M	31	educator
+791	user	herschel	M	40	programmer
+792	user	alva	M	22	student
+793	user	giovanni	M	32	educator
+794	user	garth	M	30	programmer
+795	user	clare	F	32	writer
+796	user	alejandra	F	44	other
+797	user	elinor	F	40	writer
+798	user	michael	F	49	administrator
+799	user	lon	M	25	programmer
+800	user	freeman	M	22	writer
+801	user	erin	M	35	administrator
+802	user	duncan	M	70	administrator
+803	user	kennith	M	39	educator
+804	user	taylor	F	27	other
+805	user	augustine	M	27	marketing
+806	user	marcie	F	41	healthcare
+807	user	erich	M	45	salesman
+808	user	annabelle	F	50	marketing
+809	user	louisa	F	55	other
+810	user	earlene	F	40	educator
+811	user	reid	M	22	technician
+812	user	carlene	F	14	student
+813	user	anderson	M	30	other
+814	user	morton	M	32	other
+815	user	jonas	M	34	other
+816	user	forest	M	19	student
+817	user	mitchel	M	28	librarian
+818	user	mervin	M	59	administrator
+819	user	zane	M	22	student
+820	user	rich	M	37	engineer
+821	user	maricela	F	29	librarian
+822	user	lazaro	M	27	artist
+823	user	alphonse	M	31	other
+824	user	randell	M	44	engineer
+825	user	major	M	28	artist
+826	user	roslyn	F	23	engineer
+827	user	jarrett	M	28	librarian
+828	user	brooks	M	48	writer
+829	user	ariel	M	46	programmer
+830	user	abdul	M	21	other
+831	user	dusty	M	24	technician
+832	user	luciano	M	34	writer
+833	user	lindsey	M	26	other
+834	user	suzette	F	44	executive
+835	user	seymour	M	44	artist
+836	user	kaye	F	36	artist
+837	user	eugenio	M	23	student
+838	user	merle	F	38	entertainment
+839	user	sandy	M	39	artist
+840	user	valentin	M	45	doctor
+841	user	chance	M	40	writer
+842	user	arnulfo	M	35	librarian
+843	user	lucien	M	22	engineer
+844	user	ferdinand	M	64	doctor
+845	user	thad	M	27	lawyer
+846	user	ezra	M	29	student
+847	user	sydney	M	46	engineer
+848	user	evangeline	F	15	student
+849	user	rubin	M	34	technician
+850	user	royal	M	18	other
+851	user	mitch	M	46	administrator
+852	user	earle	M	49	writer
+853	user	nadia	F	29	student
+854	user	wyatt	M	53	librarian
+855	user	kathie	F	43	marketing
+856	user	eddie	F	35	administrator
+857	user	kareem	M	63	educator
+858	user	valeria	F	18	other
+859	user	nona	F	70	retired
+860	user	mitzi	F	38	student
+861	user	emile	M	25	executive
+862	user	elmo	M	17	student
+863	user	aron	M	27	programmer
+864	user	leopoldo	M	25	artist
+865	user	everette	M	45	other
+866	user	josef	M	24	scientist
+867	user	gail	M	21	programmer
+868	user	eloy	M	30	student
+869	user	dorian	M	22	student
+870	user	rodrick	M	31	executive
+871	user	chasity	F	19	student
+872	user	sheree	F	48	administrator
+873	user	jerrod	M	36	scientist
+874	user	james	F	24	student
+875	user	hershel	M	41	other
+876	user	barton	M	30	other
+877	user	deirdre	F	50	educator
+878	user	gena	F	33	administrator
+879	user	lavern	M	13	student
+880	user	burt	M	39	marketing
+881	user	jules	M	35	engineer
+882	user	gil	M	49	librarian
+883	user	eliseo	M	44	engineer
+884	user	tessa	F	30	other
+885	user	nigel	M	20	student
+886	user	marva	F	14	student
+887	user	antwan	M	41	scientist
+888	user	alden	M	24	technician
+889	user	margarito	M	32	student
+890	user	leonor	F	51	administrator
+891	user	refugio	M	36	other
+892	user	dino	M	25	student
+893	user	osvaldo	M	47	educator
+894	user	janna	F	31	librarian
+895	user	deandre	M	28	writer
+896	user	normand	M	30	other
+897	user	kieth	M	23	homemaker
+898	user	ivory	M	32	other
+899	user	andrea	M	60	retired
+900	user	trey	M	38	executive
+901	user	young	F	45	artist
+902	user	napoleon	M	28	educator
+903	user	lessie	F	17	student
+904	user	fritz	M	27	other
+905	user	rosendo	M	45	librarian
+906	user	anastasia	F	25	other
+907	user	vilma	F	44	librarian
+908	user	natalia	F	50	educator
+909	user	christoper	M	28	healthcare
+910	user	lynnette	F	37	writer
+911	user	lyman	M	51	other
+912	user	josiah	M	27	student
+913	user	leanna	F	44	other
+914	user	wilton	M	50	entertainment
+915	user	rico	M	27	engineer
+916	user	coleen	F	22	student
+917	user	dewitt	M	40	scientist
+918	user	carol	M	25	other
+919	user	wilda	F	30	artist
+920	user	karyn	F	20	student
+921	user	cherry	F	29	administrator
+922	user	foster	M	21	student
+923	user	faustino	M	29	other
+924	user	mai	F	18	salesman
+925	user	judson	M	49	entertainment
+926	user	gino	M	23	programmer
+927	user	edgardo	M	21	student
+928	user	berry	M	44	scientist
+929	user	enid	F	28	scientist
+930	user	tanner	M	60	educator
+931	user	jarred	M	58	educator
+932	user	donn	M	28	student
+933	user	trinidad	M	61	engineer
+934	user	tad	M	42	doctor
+935	user	shirley	M	24	other
+936	user	prince	M	48	educator
+937	user	hester	F	38	technician
+938	user	cathryn	F	26	student
+939	user	maria	M	32	administrator
+940	user	lenard	M	20	student
+941	user	bridgett	F	48	librarian
+942	user	chang	M	22	student
+943	movie	Toy Story (1995)	animation;children's;comedy
+944	movie	GoldenEye (1995)	action;adventure;thriller
+945	movie	Four Rooms (1995)	thriller
+946	movie	Get Shorty (1995)	action;comedy;drama
+947	movie	Copycat (1995)	crime;drama;thriller
+948	movie	Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)	drama
+949	movie	Twelve Monkeys (1995)	drama;sci-fi
+950	movie	Babe (1995)	children's;comedy;drama
+951	movie	Dead Man Walking (1995)	drama
+952	movie	Richard III (1995)	drama;war
+953	movie	Seven (Se7en) (1995)	crime;thriller
+954	movie	Usual Suspects, The (1995)	crime;thriller
+955	movie	Mighty Aphrodite (1995)	comedy
+956	movie	Postino, Il (1994)	drama;romance
+957	movie	Mr. Holland's Opus (1995)	drama
+958	movie	French Twist (Gazon maudit) (1995)	comedy;romance
+959	movie	From Dusk Till Dawn (1996)	action;comedy;crime;horror;thriller
+960	movie	White Balloon, The (1995)	drama
+961	movie	Antonia's Line (1995)	drama
+962	movie	Angels and Insects (1995)	drama;romance
+963	movie	Muppet Treasure Island (1996)	action;adventure;comedy;musical;thriller
+964	movie	Braveheart (1995)	action;drama;war
+965	movie	Taxi Driver (1976)	drama;thriller
+966	movie	Rumble in the Bronx (1995)	action;adventure;crime
+967	movie	Birdcage, The (1996)	comedy
+968	movie	Brothers McMullen, The (1995)	comedy
+969	movie	Bad Boys (1995)	action
+970	movie	Apollo 13 (1995)	action;drama;thriller
+971	movie	Batman Forever (1995)	action;adventure;comedy;crime
+972	movie	Belle de jour (1967)	drama
+973	movie	Crimson Tide (1995)	drama;thriller;war
+974	movie	Crumb (1994)	documentary
+975	movie	Desperado (1995)	action;romance;thriller
+976	movie	Doom Generation, The (1995)	comedy;drama
+977	movie	Free Willy 2: The Adventure Home (1995)	adventure;children's;drama
+978	movie	Mad Love (1995)	drama;romance
+979	movie	Nadja (1994)	drama
+980	movie	Net, The (1995)	sci-fi;thriller
+981	movie	Strange Days (1995)	action;crime;sci-fi
+982	movie	To Wong Foo, Thanks for Everything! Julie Newmar (1995)	comedy
+983	movie	Billy Madison (1995)	comedy
+984	movie	Clerks (1994)	comedy
+985	movie	Disclosure (1994)	drama;thriller
+986	movie	Dolores Claiborne (1994)	drama;thriller
+987	movie	Eat Drink Man Woman (1994)	comedy;drama
+988	movie	Exotica (1994)	drama
+989	movie	Ed Wood (1994)	comedy;drama
+990	movie	Hoop Dreams (1994)	documentary
+991	movie	I.Q. (1994)	comedy;romance
+992	movie	Star Wars (1977)	action;adventure;romance;sci-fi;war
+993	movie	Legends of the Fall (1994)	drama;romance;war;western
+994	movie	Madness of King George, The (1994)	drama
+995	movie	Natural Born Killers (1994)	action;thriller
+996	movie	Outbreak (1995)	action;drama;thriller
+997	movie	Professional, The (1994)	crime;drama;romance;thriller
+998	movie	Pulp Fiction (1994)	crime;drama
+999	movie	Priest (1994)	drama
+1000	movie	Quiz Show (1994)	drama
+1001	movie	Three Colors: Red (1994)	drama
+1002	movie	Three Colors: Blue (1993)	drama
+1003	movie	Three Colors: White (1994)	drama
+1004	movie	Stargate (1994)	action;adventure;sci-fi
+1005	movie	Santa Clause, The (1994)	children's;comedy
+1006	movie	Shawshank Redemption, The (1994)	drama
+1007	movie	What's Eating Gilbert Grape (1993)	comedy;drama
+1008	movie	While You Were Sleeping (1995)	comedy;romance
+1009	movie	Ace Ventura: Pet Detective (1994)	comedy
+1010	movie	Crow, The (1994)	action;romance;thriller
+1011	movie	Forrest Gump (1994)	comedy;romance;war
+1012	movie	Four Weddings and a Funeral (1994)	comedy;romance
+1013	movie	Lion King, The (1994)	animation;children's;musical
+1014	movie	Mask, The (1994)	comedy;crime;fantasy
+1015	movie	Maverick (1994)	action;comedy;western
+1016	movie	Faster Pussycat! Kill! Kill! (1965)	action;comedy;drama
+1017	movie	Brother Minister: The Assassination of Malcolm X (1994)	documentary
+1018	movie	Carlito's Way (1993)	crime;drama
+1019	movie	Firm, The (1993)	drama;thriller
+1020	movie	Free Willy (1993)	adventure;children's;drama
+1021	movie	Fugitive, The (1993)	action;thriller
+1022	movie	Hot Shots! Part Deux (1993)	action;comedy;war
+1023	movie	Hudsucker Proxy, The (1994)	comedy;romance
+1024	movie	Jurassic Park (1993)	action;adventure;sci-fi
+1025	movie	Much Ado About Nothing (1993)	comedy;romance
+1026	movie	Robert A. Heinlein's The Puppet Masters (1994)	horror;sci-fi
+1027	movie	Ref, The (1994)	comedy
+1028	movie	Remains of the Day, The (1993)	drama
+1029	movie	Searching for Bobby Fischer (1993)	drama
+1030	movie	Sleepless in Seattle (1993)	comedy;romance
+1031	movie	Blade Runner (1982)	film-noir;sci-fi
+1032	movie	So I Married an Axe Murderer (1993)	comedy;romance;thriller
+1033	movie	Nightmare Before Christmas, The (1993)	children's;comedy;musical
+1034	movie	True Romance (1993)	action;crime;romance
+1035	movie	Welcome to the Dollhouse (1995)	comedy;drama
+1036	movie	Home Alone (1990)	children's;comedy
+1037	movie	Aladdin (1992)	animation;children's;comedy;musical
+1038	movie	Terminator 2: Judgment Day (1991)	action;sci-fi;thriller
+1039	movie	Dances with Wolves (1990)	adventure;drama;western
+1040	movie	Silence of the Lambs, The (1991)	drama;thriller
+1041	movie	Snow White and the Seven Dwarfs (1937)	animation;children's;musical
+1042	movie	Fargo (1996)	crime;drama;thriller
+1043	movie	Heavy Metal (1981)	action;adventure;animation;horror;sci-fi
+1044	movie	Aristocats, The (1970)	animation;children's
+1045	movie	All Dogs Go to Heaven 2 (1996)	animation;children's;musical
+1046	movie	Theodore Rex (1995)	comedy
+1047	movie	Sgt. Bilko (1996)	comedy
+1048	movie	Diabolique (1996)	drama;thriller
+1049	movie	Moll Flanders (1996)	drama
+1050	movie	Kids in the Hall: Brain Candy (1996)	comedy
+1051	movie	Mystery Science Theater 3000: The Movie (1996)	comedy;sci-fi
+1052	movie	Operation Dumbo Drop (1995)	action;adventure;comedy;war
+1053	movie	Truth About Cats & Dogs, The (1996)	comedy;romance
+1054	movie	Flipper (1996)	adventure;children's
+1055	movie	Horseman on the Roof, The (Hussard sur le toit, Le) (1995)	drama
+1056	movie	Wallace & Gromit: The Best of Aardman Animation (1996)	animation
+1057	movie	Haunted World of Edward D. Wood Jr., The (1995)	documentary
+1058	movie	Cold Comfort Farm (1995)	comedy
+1059	movie	Rock, The (1996)	action;adventure;thriller
+1060	movie	Twister (1996)	action;adventure;thriller
+1061	movie	Maya Lin: A Strong Clear Vision (1994)	documentary
+1062	movie	Striptease (1996)	comedy;crime
+1063	movie	Independence Day (ID4) (1996)	action;sci-fi;war
+1064	movie	Cable Guy, The (1996)	comedy
+1065	movie	Frighteners, The (1996)	comedy;horror
+1066	movie	Lone Star (1996)	drama;mystery
+1067	movie	Phenomenon (1996)	drama;romance
+1068	movie	Spitfire Grill, The (1996)	drama
+1069	movie	Godfather, The (1972)	action;crime;drama
+1070	movie	Supercop (1992)	action;thriller
+1071	movie	Bound (1996)	crime;drama;romance;thriller
+1072	movie	Kansas City (1996)	crime
+1073	movie	Breakfast at Tiffany's (1961)	drama;romance
+1074	movie	Wizard of Oz, The (1939)	adventure;children's;drama;musical
+1075	movie	Gone with the Wind (1939)	drama;romance;war
+1076	movie	Citizen Kane (1941)	drama
+1077	movie	2001: A Space Odyssey (1968)	drama;mystery;sci-fi;thriller
+1078	movie	Mr. Smith Goes to Washington (1939)	drama
+1079	movie	Big Night (1996)	drama
+1080	movie	D3: The Mighty Ducks (1996)	children's;comedy
+1081	movie	Love Bug, The (1969)	children's;comedy
+1082	movie	Homeward Bound: The Incredible Journey (1993)	adventure;children's
+1083	movie	20,000 Leagues Under the Sea (1954)	adventure;children's;fantasy;sci-fi
+1084	movie	Bedknobs and Broomsticks (1971)	adventure;children's;musical
+1085	movie	Sound of Music, The (1965)	musical
+1086	movie	Die Hard (1988)	action;thriller
+1087	movie	Lawnmower Man, The (1992)	action;sci-fi;thriller
+1088	movie	Unhook the Stars (1996)	drama
+1089	movie	Long Kiss Goodnight, The (1996)	action;thriller
+1090	movie	Ghost and the Darkness, The (1996)	action;adventure
+1091	movie	Jude (1996)	drama
+1092	movie	Swingers (1996)	comedy;drama
+1093	movie	Willy Wonka and the Chocolate Factory (1971)	adventure;children's;comedy
+1094	movie	Sleeper (1973)	comedy;sci-fi
+1095	movie	Fish Called Wanda, A (1988)	comedy
+1096	movie	Monty Python's Life of Brian (1979)	comedy
+1097	movie	Dirty Dancing (1987)	musical;romance
+1098	movie	Reservoir Dogs (1992)	crime;thriller
+1099	movie	Platoon (1986)	drama;war
+1100	movie	Weekend at Bernie's (1989)	comedy
+1101	movie	Basic Instinct (1992)	mystery;thriller
+1102	movie	Glengarry Glen Ross (1992)	drama
+1103	movie	Top Gun (1986)	action;romance
+1104	movie	On Golden Pond (1981)	drama
+1105	movie	Return of the Pink Panther, The (1974)	comedy
+1106	movie	Abyss, The (1989)	action;adventure;sci-fi;thriller
+1107	movie	Jean de Florette (1986)	drama
+1108	movie	Manon of the Spring (Manon des sources) (1986)	drama
+1109	movie	Private Benjamin (1980)	comedy
+1110	movie	Monty Python and the Holy Grail (1974)	comedy
+1111	movie	Wrong Trousers, The (1993)	animation;comedy
+1112	movie	Cinema Paradiso (1988)	comedy;drama;romance
+1113	movie	Delicatessen (1991)	comedy;sci-fi
+1114	movie	Empire Strikes Back, The (1980)	action;adventure;drama;romance;sci-fi;war
+1115	movie	Princess Bride, The (1987)	action;adventure;comedy;romance
+1116	movie	Raiders of the Lost Ark (1981)	action;adventure
+1117	movie	Brazil (1985)	sci-fi
+1118	movie	Aliens (1986)	action;sci-fi;thriller;war
+1119	movie	Good, The Bad and The Ugly, The (1966)	action;western
+1120	movie	12 Angry Men (1957)	drama
+1121	movie	Clockwork Orange, A (1971)	sci-fi
+1122	movie	Apocalypse Now (1979)	drama;war
+1123	movie	Return of the Jedi (1983)	action;adventure;romance;sci-fi;war
+1124	movie	GoodFellas (1990)	crime;drama
+1125	movie	Alien (1979)	action;horror;sci-fi;thriller
+1126	movie	Army of Darkness (1993)	action;adventure;comedy;horror;sci-fi
+1127	movie	Psycho (1960)	horror;romance;thriller
+1128	movie	Blues Brothers, The (1980)	action;comedy;musical
+1129	movie	Godfather: Part II, The (1974)	action;crime;drama
+1130	movie	Full Metal Jacket (1987)	action;drama;war
+1131	movie	Grand Day Out, A (1992)	animation;comedy
+1132	movie	Henry V (1989)	drama;war
+1133	movie	Amadeus (1984)	drama;mystery
+1134	movie	Raging Bull (1980)	drama
+1135	movie	Right Stuff, The (1983)	drama
+1136	movie	Sting, The (1973)	comedy;crime
+1137	movie	Terminator, The (1984)	action;sci-fi;thriller
+1138	movie	Dead Poets Society (1989)	drama
+1139	movie	Graduate, The (1967)	drama;romance
+1140	movie	Nikita (La Femme Nikita) (1990)	thriller
+1141	movie	Bridge on the River Kwai, The (1957)	drama;war
+1142	movie	Shining, The (1980)	horror
+1143	movie	Evil Dead II (1987)	action;adventure;comedy;horror
+1144	movie	Groundhog Day (1993)	comedy;romance
+1145	movie	Unforgiven (1992)	western
+1146	movie	Back to the Future (1985)	comedy;sci-fi
+1147	movie	Patton (1970)	drama;war
+1148	movie	Akira (1988)	adventure;animation;sci-fi;thriller
+1149	movie	Cyrano de Bergerac (1990)	action;drama;romance
+1150	movie	Young Frankenstein (1974)	comedy;horror
+1151	movie	This Is Spinal Tap (1984)	comedy;drama;musical
+1152	movie	Indiana Jones and the Last Crusade (1989)	action;adventure
+1153	movie	M*A*S*H (1970)	comedy;war
+1154	movie	Unbearable Lightness of Being, The (1988)	drama
+1155	movie	Room with a View, A (1986)	drama;romance
+1156	movie	Pink Floyd - The Wall (1982)	drama;musical;war
+1157	movie	Field of Dreams (1989)	drama
+1158	movie	When Harry Met Sally... (1989)	comedy;romance
+1159	movie	Bram Stoker's Dracula (1992)	horror;romance
+1160	movie	Cape Fear (1991)	thriller
+1161	movie	Nightmare on Elm Street, A (1984)	horror
+1162	movie	Mirror Has Two Faces, The (1996)	comedy;romance
+1163	movie	Breaking the Waves (1996)	drama
+1164	movie	Star Trek: First Contact (1996)	action;adventure;sci-fi
+1165	movie	Sling Blade (1996)	drama;thriller
+1166	movie	Ridicule (1996)	drama
+1167	movie	101 Dalmatians (1996)	children's;comedy
+1168	movie	Die Hard 2 (1990)	action;thriller
+1169	movie	Star Trek VI: The Undiscovered Country (1991)	action;adventure;sci-fi
+1170	movie	Star Trek: The Wrath of Khan (1982)	action;adventure;sci-fi
+1171	movie	Star Trek III: The Search for Spock (1984)	action;adventure;sci-fi
+1172	movie	Star Trek IV: The Voyage Home (1986)	action;adventure;sci-fi
+1173	movie	Batman Returns (1992)	action;adventure;comedy;crime
+1174	movie	Young Guns (1988)	action;comedy;western
+1175	movie	Under Siege (1992)	action
+1176	movie	Jaws (1975)	action;horror
+1177	movie	Mars Attacks! (1996)	action;comedy;sci-fi;war
+1178	movie	Citizen Ruth (1996)	comedy;drama
+1179	movie	Jerry Maguire (1996)	drama;romance
+1180	movie	Raising Arizona (1987)	comedy
+1181	movie	Sneakers (1992)	crime;drama;sci-fi
+1182	movie	Beavis and Butt-head Do America (1996)	animation;comedy
+1183	movie	Last of the Mohicans, The (1992)	action;romance;war
+1184	movie	Kolya (1996)	comedy
+1185	movie	Jungle2Jungle (1997)	children's;comedy
+1186	movie	Smilla's Sense of Snow (1997)	action;drama;thriller
+1187	movie	Devil's Own, The (1997)	action;drama;thriller;war
+1188	movie	Chasing Amy (1997)	drama;romance
+1189	movie	Turbo: A Power Rangers Movie (1997)	action;adventure;children's
+1190	movie	Grosse Pointe Blank (1997)	comedy;crime
+1191	movie	Austin Powers: International Man of Mystery (1997)	comedy
+1192	movie	Fifth Element, The (1997)	action;sci-fi
+1193	movie	Shall We Dance? (1996)	comedy
+1194	movie	Lost World: Jurassic Park, The (1997)	action;adventure;sci-fi;thriller
+1195	movie	Pillow Book, The (1995)	drama;romance
+1196	movie	Batman & Robin (1997)	action;adventure;crime
+1197	movie	My Best Friend's Wedding (1997)	comedy;romance
+1198	movie	When the Cats Away (Chacun cherche son chat) (1996)	comedy;romance
+1199	movie	Men in Black (1997)	action;adventure;comedy;sci-fi
+1200	movie	Contact (1997)	drama;sci-fi
+1201	movie	George of the Jungle (1997)	children's;comedy
+1202	movie	Event Horizon (1997)	action;mystery;sci-fi;thriller
+1203	movie	Air Bud (1997)	children's;comedy
+1204	movie	In the Company of Men (1997)	drama
+1205	movie	Steel (1997)	action
+1206	movie	Mimic (1997)	sci-fi;thriller
+1207	movie	Hunt for Red October, The (1990)	action;thriller
+1208	movie	Kull the Conqueror (1997)	action;adventure
+1209	movie	unknown	unknown
+1210	movie	Chasing Amy (1997)	drama;romance
+1211	movie	Full Monty, The (1997)	comedy
+1212	movie	Gattaca (1997)	drama;sci-fi;thriller
+1213	movie	Starship Troopers (1997)	action;adventure;sci-fi;war
+1214	movie	Good Will Hunting (1997)	drama
+1215	movie	Heat (1995)	action;crime;thriller
+1216	movie	Sabrina (1995)	comedy;romance
+1217	movie	Sense and Sensibility (1995)	drama;romance
+1218	movie	Leaving Las Vegas (1995)	drama;romance
+1219	movie	Restoration (1995)	drama
+1220	movie	Bed of Roses (1996)	drama;romance
+1221	movie	Once Upon a Time... When We Were Colored (1995)	drama
+1222	movie	Up Close and Personal (1996)	drama;romance
+1223	movie	River Wild, The (1994)	action;thriller
+1224	movie	Time to Kill, A (1996)	drama
+1225	movie	Emma (1996)	drama;romance
+1226	movie	Tin Cup (1996)	comedy;romance
+1227	movie	Secrets & Lies (1996)	drama
+1228	movie	English Patient, The (1996)	drama;romance;war
+1229	movie	Marvin's Room (1996)	drama
+1230	movie	Scream (1996)	horror;thriller
+1231	movie	Evita (1996)	drama;musical
+1232	movie	Fierce Creatures (1997)	comedy
+1233	movie	Absolute Power (1997)	mystery;thriller
+1234	movie	Rosewood (1997)	drama
+1235	movie	Donnie Brasco (1997)	crime;drama
+1236	movie	Liar Liar (1997)	comedy
+1237	movie	Breakdown (1997)	action;thriller
+1238	movie	Promesse, La (1996)	drama
+1239	movie	Ulee's Gold (1997)	drama
+1240	movie	Face/Off (1997)	action;sci-fi;thriller
+1241	movie	Hoodlum (1997)	crime;drama;film-noir
+1242	movie	Air Force One (1997)	action;thriller
+1243	movie	In & Out (1997)	comedy
+1244	movie	L.A. Confidential (1997)	crime;film-noir;mystery;thriller
+1245	movie	Ulee's Gold (1997)	drama
+1246	movie	Fly Away Home (1996)	adventure;children's
+1247	movie	Ice Storm, The (1997)	drama
+1248	movie	Mrs. Brown (Her Majesty, Mrs. Brown) (1997)	drama;romance
+1249	movie	Devil's Advocate, The (1997)	crime;horror;mystery;thriller
+1250	movie	FairyTale: A True Story (1997)	children's;drama;fantasy
+1251	movie	Deceiver (1997)	crime
+1252	movie	Rainmaker, The (1997)	drama
+1253	movie	Wings of the Dove, The (1997)	drama;romance;thriller
+1254	movie	Midnight in the Garden of Good and Evil (1997)	comedy;crime;drama;mystery
+1255	movie	Titanic (1997)	action;drama;romance
+1256	movie	3 Ninjas: High Noon At Mega Mountain (1998)	action;children's
+1257	movie	Apt Pupil (1998)	drama;thriller
+1258	movie	As Good As It Gets (1997)	comedy;drama
+1259	movie	In the Name of the Father (1993)	drama
+1260	movie	Schindler's List (1993)	drama;war
+1261	movie	Everyone Says I Love You (1996)	comedy;musical;romance
+1262	movie	Paradise Lost: The Child Murders at Robin Hood Hills (1996)	documentary
+1263	movie	Mother (1996)	comedy
+1264	movie	Murder at 1600 (1997)	mystery;thriller
+1265	movie	Dante's Peak (1997)	action;thriller
+1266	movie	Lost Highway (1997)	mystery
+1267	movie	Crash (1996)	drama;thriller
+1268	movie	G.I. Jane (1997)	action;drama;war
+1269	movie	Cop Land (1997)	crime;drama;mystery
+1270	movie	Conspiracy Theory (1997)	action;mystery;romance;thriller
+1271	movie	Desperate Measures (1998)	crime;drama;thriller
+1272	movie	187 (1997)	drama
+1273	movie	Edge, The (1997)	adventure;thriller
+1274	movie	Kiss the Girls (1997)	crime;drama;thriller
+1275	movie	Game, The (1997)	mystery;thriller
+1276	movie	U Turn (1997)	action;crime;mystery
+1277	movie	How to Be a Player (1997)	comedy
+1278	movie	Playing God (1997)	crime;thriller
+1279	movie	House of Yes, The (1997)	comedy;drama;thriller
+1280	movie	Bean (1997)	comedy
+1281	movie	Mad City (1997)	action;drama
+1282	movie	Boogie Nights (1997)	drama
+1283	movie	Critical Care (1997)	comedy
+1284	movie	Man Who Knew Too Little, The (1997)	comedy;mystery
+1285	movie	Alien: Resurrection (1997)	action;horror;sci-fi
+1286	movie	Apostle, The (1997)	drama
+1287	movie	Deconstructing Harry (1997)	comedy;drama
+1288	movie	Jackie Brown (1997)	crime;drama
+1289	movie	Wag the Dog (1997)	comedy;drama
+1290	movie	Desperate Measures (1998)	crime;drama;thriller
+1291	movie	Hard Rain (1998)	action;thriller
+1292	movie	Fallen (1998)	action;mystery;thriller
+1293	movie	Prophecy II, The (1998)	horror
+1294	movie	Spice World (1997)	comedy;musical
+1295	movie	Deep Rising (1998)	action;horror;sci-fi
+1296	movie	Wedding Singer, The (1998)	comedy;romance
+1297	movie	Sphere (1998)	adventure;sci-fi;thriller
+1298	movie	Client, The (1994)	drama;mystery;thriller
+1299	movie	One Flew Over the Cuckoo's Nest (1975)	drama
+1300	movie	Spawn (1997)	action;adventure;sci-fi;thriller
+1301	movie	Assignment, The (1997)	thriller
+1302	movie	Wonderland (1997)	documentary
+1303	movie	Incognito (1997)	crime;thriller
+1304	movie	Blues Brothers 2000 (1998)	action;comedy;musical
+1305	movie	Sudden Death (1995)	action
+1306	movie	Ace Ventura: When Nature Calls (1995)	comedy
+1307	movie	Powder (1995)	drama
+1308	movie	Dangerous Minds (1995)	drama
+1309	movie	Clueless (1995)	comedy
+1310	movie	Bio-Dome (1996)	comedy
+1311	movie	Black Sheep (1996)	comedy
+1312	movie	Mary Reilly (1996)	drama;thriller
+1313	movie	Bridges of Madison County, The (1995)	drama;romance
+1314	movie	Jeffrey (1995)	comedy
+1315	movie	Judge Dredd (1995)	action;adventure;sci-fi
+1316	movie	Mighty Morphin Power Rangers: The Movie (1995)	action;children's
+1317	movie	Showgirls (1995)	drama
+1318	movie	Houseguest (1994)	comedy
+1319	movie	Heavyweights (1994)	children's;comedy
+1320	movie	Miracle on 34th Street (1994)	drama
+1321	movie	Tales From the Crypt Presents: Demon Knight (1995)	horror
+1322	movie	Star Trek: Generations (1994)	action;adventure;sci-fi
+1323	movie	Muriel's Wedding (1994)	comedy;romance
+1324	movie	Adventures of Priscilla, Queen of the Desert, The (1994)	comedy;drama
+1325	movie	Flintstones, The (1994)	children's;comedy
+1326	movie	Naked Gun 33 1/3: The Final Insult (1994)	comedy
+1327	movie	True Lies (1994)	action;adventure;comedy;romance
+1328	movie	Addams Family Values (1993)	comedy
+1329	movie	Age of Innocence, The (1993)	drama
+1330	movie	Beverly Hills Cop III (1994)	action;comedy
+1331	movie	Black Beauty (1994)	adventure;children's
+1332	movie	Fear of a Black Hat (1993)	comedy
+1333	movie	Last Action Hero (1993)	action;comedy
+1334	movie	Man Without a Face, The (1993)	drama
+1335	movie	Mrs. Doubtfire (1993)	comedy
+1336	movie	Radioland Murders (1994)	comedy;mystery;romance
+1337	movie	Robin Hood: Men in Tights (1993)	comedy
+1338	movie	Serial Mom (1994)	comedy;crime;horror
+1339	movie	Striking Distance (1993)	action
+1340	movie	Super Mario Bros. (1993)	action;adventure;children's;sci-fi
+1341	movie	Three Musketeers, The (1993)	action;adventure;comedy
+1342	movie	Little Rascals, The (1994)	children's;comedy
+1343	movie	Brady Bunch Movie, The (1995)	comedy
+1344	movie	Ghost (1990)	comedy;romance;thriller
+1345	movie	Batman (1989)	action;adventure;crime;drama
+1346	movie	Pinocchio (1940)	animation;children's
+1347	movie	Mission: Impossible (1996)	action;adventure;mystery
+1348	movie	Thinner (1996)	horror;thriller
+1349	movie	Spy Hard (1996)	comedy
+1350	movie	Close Shave, A (1995)	animation;comedy;thriller
+1351	movie	Jack (1996)	comedy;drama
+1352	movie	Kingpin (1996)	comedy
+1353	movie	Nutty Professor, The (1996)	comedy;fantasy;romance;sci-fi
+1354	movie	Very Brady Sequel, A (1996)	comedy
+1355	movie	Tales from the Crypt Presents: Bordello of Blood (1996)	horror
+1356	movie	My Favorite Year (1982)	comedy
+1357	movie	Apple Dumpling Gang, The (1975)	children's;comedy;western
+1358	movie	Old Yeller (1957)	children's;drama
+1359	movie	Parent Trap, The (1961)	children's;drama
+1360	movie	Cinderella (1950)	animation;children's;musical
+1361	movie	Mary Poppins (1964)	children's;comedy;musical
+1362	movie	Alice in Wonderland (1951)	animation;children's;musical
+1363	movie	William Shakespeare's Romeo and Juliet (1996)	drama;romance
+1364	movie	Aladdin and the King of Thieves (1996)	animation;children's;comedy
+1365	movie	E.T. the Extra-Terrestrial (1982)	children's;drama;fantasy;sci-fi
+1366	movie	Children of the Corn: The Gathering (1996)	horror
+1367	movie	Bob Roberts (1992)	comedy
+1368	movie	Transformers: The Movie, The (1986)	action;animation;children's;sci-fi;thriller;war
+1369	movie	To Kill a Mockingbird (1962)	drama
+1370	movie	Harold and Maude (1971)	comedy
+1371	movie	Day the Earth Stood Still, The (1951)	drama;sci-fi
+1372	movie	Duck Soup (1933)	comedy;war
+1373	movie	Highlander (1986)	action;adventure
+1374	movie	Fantasia (1940)	animation;children's;musical
+1375	movie	Heathers (1989)	comedy
+1376	movie	Forbidden Planet (1956)	sci-fi
+1377	movie	Butch Cassidy and the Sundance Kid (1969)	action;comedy;western
+1378	movie	American Werewolf in London, An (1981)	horror
+1379	movie	Amityville 1992: It's About Time (1992)	horror
+1380	movie	Amityville 3-D (1983)	horror
+1381	movie	Amityville: A New Generation (1993)	horror
+1382	movie	Amityville II: The Possession (1982)	horror
+1383	movie	Amityville Horror, The (1979)	horror
+1384	movie	Amityville Curse, The (1990)	horror
+1385	movie	Birds, The (1963)	horror
+1386	movie	Blob, The (1958)	horror;sci-fi
+1387	movie	Body Snatcher, The (1945)	horror
+1388	movie	Burnt Offerings (1976)	horror
+1389	movie	Carrie (1976)	horror
+1390	movie	Omen, The (1976)	horror
+1391	movie	Star Trek: The Motion Picture (1979)	action;adventure;sci-fi
+1392	movie	Star Trek V: The Final Frontier (1989)	action;adventure;sci-fi
+1393	movie	Grease (1978)	comedy;musical;romance
+1394	movie	Jaws 2 (1978)	action;horror
+1395	movie	Jaws 3-D (1983)	action;horror
+1396	movie	Bastard Out of Carolina (1996)	drama
+1397	movie	Jackie Chan's First Strike (1996)	action
+1398	movie	Beverly Hills Ninja (1997)	action;comedy
+1399	movie	Free Willy 3: The Rescue (1997)	adventure;children's;drama
+1400	movie	Nixon (1995)	drama
+1401	movie	Cry, the Beloved Country (1995)	drama
+1402	movie	Crossing Guard, The (1995)	drama
+1403	movie	Smoke (1995)	drama
+1404	movie	Like Water For Chocolate (Como agua para chocolate) (1992)	drama;romance
+1405	movie	Secret of Roan Inish, The (1994)	adventure
+1406	movie	Vanya on 42nd Street (1994)	drama
+1407	movie	Jungle Book, The (1994)	adventure;children's;romance
+1408	movie	Red Rock West (1992)	thriller
+1409	movie	Bronx Tale, A (1993)	drama
+1410	movie	Rudy (1993)	drama
+1411	movie	Short Cuts (1993)	drama
+1412	movie	Tombstone (1993)	western
+1413	movie	Courage Under Fire (1996)	drama;war
+1414	movie	Dragonheart (1996)	action;adventure;fantasy
+1415	movie	James and the Giant Peach (1996)	animation;children's;musical
+1416	movie	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)	sci-fi;war
+1417	movie	Trainspotting (1996)	drama
+1418	movie	First Wives Club, The (1996)	comedy
+1419	movie	Matilda (1996)	children's;comedy
+1420	movie	Philadelphia Story, The (1940)	comedy;romance
+1421	movie	Vertigo (1958)	mystery;thriller
+1422	movie	North by Northwest (1959)	comedy;thriller
+1423	movie	Apartment, The (1960)	comedy;drama
+1424	movie	Some Like It Hot (1959)	comedy;crime
+1425	movie	Casablanca (1942)	drama;romance;war
+1426	movie	Maltese Falcon, The (1941)	film-noir;mystery
+1427	movie	My Fair Lady (1964)	musical;romance
+1428	movie	Sabrina (1954)	comedy;romance
+1429	movie	Roman Holiday (1953)	comedy;romance
+1430	movie	Sunset Blvd. (1950)	film-noir
+1431	movie	Notorious (1946)	film-noir;romance;thriller
+1432	movie	To Catch a Thief (1955)	comedy;romance;thriller
+1433	movie	Adventures of Robin Hood, The (1938)	action;adventure
+1434	movie	East of Eden (1955)	drama
+1435	movie	Thin Man, The (1934)	mystery
+1436	movie	His Girl Friday (1940)	comedy
+1437	movie	Around the World in 80 Days (1956)	adventure;comedy
+1438	movie	It's a Wonderful Life (1946)	drama
+1439	movie	Bringing Up Baby (1938)	comedy
+1440	movie	African Queen, The (1951)	action;adventure;romance;war
+1441	movie	Cat on a Hot Tin Roof (1958)	drama
+1442	movie	Fly Away Home (1996)	adventure;children's
+1443	movie	Dumbo (1941)	animation;children's;musical
+1444	movie	Bananas (1971)	comedy;war
+1445	movie	Candidate, The (1972)	drama
+1446	movie	Bonnie and Clyde (1967)	crime;drama
+1447	movie	Dial M for Murder (1954)	mystery;thriller
+1448	movie	Rebel Without a Cause (1955)	drama
+1449	movie	Streetcar Named Desire, A (1951)	drama
+1450	movie	People vs. Larry Flynt, The (1996)	drama
+1451	movie	My Left Foot (1989)	drama
+1452	movie	Magnificent Seven, The (1954)	action;drama;western
+1453	movie	Lawrence of Arabia (1962)	adventure;war
+1454	movie	Wings of Desire (1987)	comedy;drama;romance
+1455	movie	Third Man, The (1949)	mystery;thriller
+1456	movie	Annie Hall (1977)	comedy;romance
+1457	movie	Boot, Das (1981)	action;drama;war
+1458	movie	Local Hero (1983)	comedy
+1459	movie	Manhattan (1979)	comedy;drama;romance
+1460	movie	Miller's Crossing (1990)	drama
+1461	movie	Treasure of the Sierra Madre, The (1948)	adventure
+1462	movie	Great Escape, The (1963)	adventure;war
+1463	movie	Deer Hunter, The (1978)	drama;war
+1464	movie	Down by Law (1986)	comedy;drama
+1465	movie	Cool Hand Luke (1967)	comedy;drama
+1466	movie	Great Dictator, The (1940)	comedy
+1467	movie	Big Sleep, The (1946)	film-noir;mystery
+1468	movie	Ben-Hur (1959)	action;adventure;drama
+1469	movie	Gandhi (1982)	drama
+1470	movie	Killing Fields, The (1984)	drama;war
+1471	movie	My Life as a Dog (Mitt liv som hund) (1985)	drama
+1472	movie	Man Who Would Be King, The (1975)	adventure
+1473	movie	Shine (1996)	drama;romance
+1474	movie	Kama Sutra: A Tale of Love (1996)	romance
+1475	movie	Daytrippers, The (1996)	mystery
+1476	movie	Traveller (1997)	drama
+1477	movie	Addicted to Love (1997)	comedy;romance
+1478	movie	Ponette (1996)	drama
+1479	movie	My Own Private Idaho (1991)	drama
+1480	movie	Anastasia (1997)	animation;children's;musical
+1481	movie	Mouse Hunt (1997)	children's;comedy
+1482	movie	Money Train (1995)	action
+1483	movie	Mortal Kombat (1995)	action;adventure
+1484	movie	Pocahontas (1995)	animation;children's;musical;romance
+1485	movie	Misrables, Les (1995)	drama;musical
+1486	movie	Things to Do in Denver when You're Dead (1995)	crime;drama;romance
+1487	movie	Vampire in Brooklyn (1995)	comedy;romance
+1488	movie	Broken Arrow (1996)	action;thriller
+1489	movie	Young Poisoner's Handbook, The (1995)	crime
+1490	movie	NeverEnding Story III, The (1994)	children's;fantasy
+1491	movie	Rob Roy (1995)	drama;romance;war
+1492	movie	Die Hard: With a Vengeance (1995)	action;thriller
+1493	movie	Lord of Illusions (1995)	horror
+1494	movie	Species (1995)	sci-fi
+1495	movie	Walk in the Clouds, A (1995)	drama;romance
+1496	movie	Waterworld (1995)	action;adventure
+1497	movie	White Man's Burden (1995)	drama
+1498	movie	Wild Bill (1995)	western
+1499	movie	Farinelli: il castrato (1994)	drama;musical
+1500	movie	Heavenly Creatures (1994)	drama;fantasy;thriller
+1501	movie	Interview with the Vampire (1994)	drama;horror
+1502	movie	Kid in King Arthur's Court, A (1995)	adventure;children's;comedy;fantasy;romance;sci-fi
+1503	movie	Mary Shelley's Frankenstein (1994)	drama;horror
+1504	movie	Quick and the Dead, The (1995)	action;adventure;western
+1505	movie	Stephen King's The Langoliers (1995)	horror
+1506	movie	Tales from the Hood (1995)	comedy;horror
+1507	movie	Village of the Damned (1995)	horror;thriller
+1508	movie	Clear and Present Danger (1994)	action;adventure;thriller
+1509	movie	Wes Craven's New Nightmare (1994)	horror
+1510	movie	Speed (1994)	action;romance;thriller
+1511	movie	Wolf (1994)	drama;horror
+1512	movie	Wyatt Earp (1994)	western
+1513	movie	Another Stakeout (1993)	comedy;thriller
+1514	movie	Blown Away (1994)	action;thriller
+1515	movie	Body Snatchers (1993)	horror;sci-fi;thriller
+1516	movie	Boxing Helena (1993)	mystery;romance;thriller
+1517	movie	City Slickers II: The Legend of Curly's Gold (1994)	comedy;western
+1518	movie	Cliffhanger (1993)	action;adventure;crime
+1519	movie	Coneheads (1993)	comedy;sci-fi
+1520	movie	Demolition Man (1993)	action;sci-fi
+1521	movie	Fatal Instinct (1993)	comedy
+1522	movie	Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)	comedy;romance
+1523	movie	Kalifornia (1993)	drama;thriller
+1524	movie	Piano, The (1993)	drama;romance
+1525	movie	Romeo Is Bleeding (1993)	crime;thriller
+1526	movie	Secret Garden, The (1993)	children's;drama
+1527	movie	Son in Law (1993)	comedy
+1528	movie	Terminal Velocity (1994)	action
+1529	movie	Hour of the Pig, The (1993)	drama;mystery
+1530	movie	Beauty and the Beast (1991)	animation;children's;musical
+1531	movie	Wild Bunch, The (1969)	western
+1532	movie	Hellraiser: Bloodline (1996)	action;horror;sci-fi
+1533	movie	Primal Fear (1996)	drama;thriller
+1534	movie	True Crime (1995)	mystery;thriller
+1535	movie	Stalingrad (1993)	war
+1536	movie	Heavy (1995)	drama;romance
+1537	movie	Fan, The (1996)	thriller
+1538	movie	Hunchback of Notre Dame, The (1996)	animation;children's;musical
+1539	movie	Eraser (1996)	action;thriller
+1540	movie	Big Squeeze, The (1996)	comedy;drama
+1541	movie	Police Story 4: Project S (Chao ji ji hua) (1993)	action
+1542	movie	Daniel Defoe's Robinson Crusoe (1996)	children's
+1543	movie	For Whom the Bell Tolls (1943)	adventure;war
+1544	movie	American in Paris, An (1951)	musical;romance
+1545	movie	Rear Window (1954)	mystery;thriller
+1546	movie	It Happened One Night (1934)	comedy
+1547	movie	Meet Me in St. Louis (1944)	musical
+1548	movie	All About Eve (1950)	drama
+1549	movie	Rebecca (1940)	romance;thriller
+1550	movie	Spellbound (1945)	mystery;romance;thriller
+1551	movie	Father of the Bride (1950)	comedy
+1552	movie	Gigi (1958)	musical
+1553	movie	Laura (1944)	crime;film-noir;mystery
+1554	movie	Lost Horizon (1937)	drama
+1555	movie	My Man Godfrey (1936)	comedy
+1556	movie	Giant (1956)	drama
+1557	movie	39 Steps, The (1935)	thriller
+1558	movie	Night of the Living Dead (1968)	horror;sci-fi
+1559	movie	Blue Angel, The (Blaue Engel, Der) (1930)	drama
+1560	movie	Picnic (1955)	drama
+1561	movie	Extreme Measures (1996)	drama;thriller
+1562	movie	Chamber, The (1996)	drama
+1563	movie	Davy Crockett, King of the Wild Frontier (1955)	western
+1564	movie	Swiss Family Robinson (1960)	adventure;children's
+1565	movie	Angels in the Outfield (1994)	children's;comedy
+1566	movie	Three Caballeros, The (1945)	animation;children's;musical
+1567	movie	Sword in the Stone, The (1963)	animation;children's
+1568	movie	So Dear to My Heart (1949)	children's;drama
+1569	movie	Robin Hood: Prince of Thieves (1991)	drama
+1570	movie	Sleepers (1996)	crime;drama
+1571	movie	Victor/Victoria (1982)	comedy;musical
+1572	movie	Great Race, The (1965)	comedy;musical
+1573	movie	Crying Game, The (1992)	action;drama;romance;war
+1574	movie	Sophie's Choice (1982)	drama
+1575	movie	Christmas Carol, A (1938)	drama
+1576	movie	Microcosmos: Le peuple de l'herbe (1996)	documentary
+1577	movie	Fog, The (1980)	horror
+1578	movie	Escape from New York (1981)	action;adventure;sci-fi;thriller
+1579	movie	Howling, The (1981)	comedy;horror
+1580	movie	Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)	drama
+1581	movie	Tin Drum, The (Blechtrommel, Die) (1979)	drama
+1582	movie	Cook the Thief His Wife & Her Lover, The (1989)	drama
+1583	movie	Paths of Glory (1957)	drama;war
+1584	movie	Grifters, The (1990)	crime;drama;film-noir
+1585	movie	The Innocent (1994)	drama;romance
+1586	movie	Thin Blue Line, The (1988)	documentary
+1587	movie	Paris Is Burning (1990)	documentary
+1588	movie	Once Upon a Time in the West (1969)	western
+1589	movie	Ran (1985)	drama;war
+1590	movie	Quiet Man, The (1952)	comedy;romance
+1591	movie	Once Upon a Time in America (1984)	crime;drama;thriller
+1592	movie	Seventh Seal, The (Sjunde inseglet, Det) (1957)	drama
+1593	movie	Glory (1989)	action;drama;war
+1594	movie	Rosencrantz and Guildenstern Are Dead (1990)	comedy;drama
+1595	movie	Touch of Evil (1958)	crime;film-noir;thriller
+1596	movie	Chinatown (1974)	film-noir;mystery;thriller
+1597	movie	Stand by Me (1986)	adventure;comedy;drama
+1598	movie	M (1931)	crime;film-noir;thriller
+1599	movie	Manchurian Candidate, The (1962)	film-noir;thriller
+1600	movie	Pump Up the Volume (1990)	drama
+1601	movie	Arsenic and Old Lace (1944)	comedy;mystery;thriller
+1602	movie	Fried Green Tomatoes (1991)	drama
+1603	movie	High Noon (1952)	western
+1604	movie	Somewhere in Time (1980)	drama;romance
+1605	movie	Being There (1979)	comedy
+1606	movie	Paris, Texas (1984)	drama
+1607	movie	Alien 3 (1992)	action;horror;sci-fi;thriller
+1608	movie	Blood For Dracula (Andy Warhol's Dracula) (1974)	horror
+1609	movie	Audrey Rose (1977)	horror
+1610	movie	Blood Beach (1981)	action;horror
+1611	movie	Body Parts (1991)	horror
+1612	movie	Body Snatchers (1993)	horror;sci-fi;thriller
+1613	movie	Bride of Frankenstein (1935)	horror
+1614	movie	Candyman (1992)	horror
+1615	movie	Cape Fear (1962)	film-noir;thriller
+1616	movie	Cat People (1982)	horror
+1617	movie	Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)	horror
+1618	movie	Crucible, The (1996)	drama
+1619	movie	Fire on the Mountain (1996)	documentary
+1620	movie	Volcano (1997)	drama;thriller
+1621	movie	Conan the Barbarian (1981)	action;adventure
+1622	movie	Kull the Conqueror (1997)	action;adventure
+1623	movie	Wishmaster (1997)	horror
+1624	movie	I Know What You Did Last Summer (1997)	horror;mystery;thriller
+1625	movie	Rocket Man (1997)	comedy
+1626	movie	In the Line of Fire (1993)	action;thriller
+1627	movie	Executive Decision (1996)	action;thriller
+1628	movie	Perfect World, A (1993)	action;drama
+1629	movie	McHale's Navy (1997)	comedy;war
+1630	movie	Leave It to Beaver (1997)	comedy
+1631	movie	Jackal, The (1997)	action;thriller
+1632	movie	Seven Years in Tibet (1997)	drama;war
+1633	movie	Dark City (1998)	film-noir;sci-fi;thriller
+1634	movie	American President, The (1995)	comedy;drama;romance
+1635	movie	Casino (1995)	drama
+1636	movie	Persuasion (1995)	romance
+1637	movie	Kicking and Screaming (1995)	comedy;drama
+1638	movie	City Hall (1996)	drama;thriller
+1639	movie	Basketball Diaries, The (1995)	drama
+1640	movie	Browning Version, The (1994)	drama
+1641	movie	Little Women (1994)	drama
+1642	movie	Miami Rhapsody (1995)	comedy
+1643	movie	Wonderful, Horrible Life of Leni Riefenstahl, The (1993)	documentary
+1644	movie	Barcelona (1994)	comedy;romance
+1645	movie	Widows' Peak (1994)	drama
+1646	movie	House of the Spirits, The (1993)	drama;romance
+1647	movie	Singin' in the Rain (1952)	musical;romance
+1648	movie	Bad Moon (1996)	horror
+1649	movie	Enchanted April (1991)	drama
+1650	movie	Sex, Lies, and Videotape (1989)	drama
+1651	movie	Strictly Ballroom (1992)	comedy;romance
+1652	movie	Better Off Dead... (1985)	comedy
+1653	movie	Substance of Fire, The (1996)	drama
+1654	movie	Tin Men (1987)	comedy;drama
+1655	movie	Othello (1995)	drama
+1656	movie	Carrington (1995)	drama;romance
+1657	movie	To Die For (1995)	comedy;drama
+1658	movie	Home for the Holidays (1995)	drama;romance
+1659	movie	Juror, The (1996)	drama;thriller
+1660	movie	In the Bleak Midwinter (1995)	comedy
+1661	movie	Canadian Bacon (1994)	comedy;war
+1662	movie	First Knight (1995)	action;adventure;drama;romance
+1663	movie	Mallrats (1995)	comedy
+1664	movie	Nine Months (1995)	comedy
+1665	movie	Boys on the Side (1995)	comedy;drama
+1666	movie	Circle of Friends (1995)	drama;romance
+1667	movie	Exit to Eden (1994)	comedy
+1668	movie	Fluke (1995)	children's;drama
+1669	movie	Immortal Beloved (1994)	drama;romance
+1670	movie	Junior (1994)	comedy;sci-fi
+1671	movie	Nell (1994)	drama
+1672	movie	Queen Margot (Reine Margot, La) (1994)	drama;romance
+1673	movie	Corrina, Corrina (1994)	comedy;drama;romance
+1674	movie	Dave (1993)	comedy;romance
+1675	movie	Go Fish (1994)	drama;romance
+1676	movie	Made in America (1993)	comedy
+1677	movie	Philadelphia (1993)	drama
+1678	movie	Shadowlands (1993)	drama;romance
+1679	movie	Sirens (1994)	comedy;drama
+1680	movie	Threesome (1994)	comedy;romance
+1681	movie	Pretty Woman (1990)	comedy;romance
+1682	movie	Jane Eyre (1996)	drama;romance
+1683	movie	Last Supper, The (1995)	drama;thriller
+1684	movie	Ransom (1996)	drama;thriller
+1685	movie	Crow: City of Angels, The (1996)	action;thriller
+1686	movie	Michael Collins (1996)	drama;war
+1687	movie	Ruling Class, The (1972)	comedy
+1688	movie	Real Genius (1985)	comedy
+1689	movie	Benny & Joon (1993)	comedy;romance
+1690	movie	Saint, The (1997)	action;romance;thriller
+1691	movie	MatchMaker, The (1997)	comedy;romance
+1692	movie	Amistad (1997)	drama
+1693	movie	Tomorrow Never Dies (1997)	action;romance;thriller
+1694	movie	Replacement Killers, The (1998)	action;thriller
+1695	movie	Burnt By the Sun (1994)	drama
+1696	movie	Red Corner (1997)	crime;thriller
+1697	movie	Jumanji (1995)	action;adventure;children's;fantasy;sci-fi
+1698	movie	Father of the Bride Part II (1995)	comedy
+1699	movie	Across the Sea of Time (1995)	documentary
+1700	movie	Lawnmower Man 2: Beyond Cyberspace (1996)	sci-fi;thriller
+1701	movie	Fair Game (1995)	action
+1702	movie	Screamers (1995)	sci-fi
+1703	movie	Nick of Time (1995)	action;thriller
+1704	movie	Beautiful Girls (1996)	drama
+1705	movie	Happy Gilmore (1996)	comedy
+1706	movie	If Lucy Fell (1996)	comedy;romance
+1707	movie	Boomerang (1992)	comedy;romance
+1708	movie	Man of the Year (1995)	documentary
+1709	movie	Addiction, The (1995)	horror
+1710	movie	Casper (1995)	adventure;children's
+1711	movie	Congo (1995)	action;adventure;mystery;sci-fi
+1712	movie	Devil in a Blue Dress (1995)	crime;film-noir;mystery;thriller
+1713	movie	Johnny Mnemonic (1995)	action;sci-fi;thriller
+1714	movie	Kids (1995)	drama
+1715	movie	Mute Witness (1994)	thriller
+1716	movie	Prophecy, The (1995)	horror
+1717	movie	Something to Talk About (1995)	comedy;drama;romance
+1718	movie	Three Wishes (1995)	drama
+1719	movie	Castle Freak (1995)	horror
+1720	movie	Don Juan DeMarco (1995)	comedy;drama;romance
+1721	movie	Drop Zone (1994)	action
+1722	movie	Dumb & Dumber (1994)	comedy
+1723	movie	French Kiss (1995)	comedy;romance
+1724	movie	Little Odessa (1994)	drama
+1725	movie	Milk Money (1994)	comedy;romance
+1726	movie	Beyond Bedlam (1993)	drama;horror
+1727	movie	Only You (1994)	comedy;romance
+1728	movie	Perez Family, The (1995)	comedy;romance
+1729	movie	Roommates (1995)	comedy;drama
+1730	movie	Relative Fear (1994)	horror;thriller
+1731	movie	Swimming with Sharks (1995)	comedy;drama
+1732	movie	Tommy Boy (1995)	comedy
+1733	movie	Baby-Sitters Club, The (1995)	children's
+1734	movie	Bullets Over Broadway (1994)	comedy
+1735	movie	Crooklyn (1994)	comedy
+1736	movie	It Could Happen to You (1994)	drama;romance
+1737	movie	Richie Rich (1994)	children's;comedy
+1738	movie	Speechless (1994)	comedy;romance
+1739	movie	Timecop (1994)	action;sci-fi
+1740	movie	Bad Company (1995)	action
+1741	movie	Boys Life (1995)	drama
+1742	movie	In the Mouth of Madness (1995)	horror;thriller
+1743	movie	Air Up There, The (1994)	comedy
+1744	movie	Hard Target (1993)	action;adventure;crime;thriller
+1745	movie	Heaven & Earth (1993)	action;drama;war
+1746	movie	Jimmy Hollywood (1994)	comedy
+1747	movie	Manhattan Murder Mystery (1993)	comedy;mystery
+1748	movie	Menace II Society (1993)	action;crime;drama
+1749	movie	Poetic Justice (1993)	drama
+1750	movie	Program, The (1993)	action;drama
+1751	movie	Rising Sun (1993)	action;drama;mystery
+1752	movie	Shadow, The (1994)	action
+1753	movie	Thirty-Two Short Films About Glenn Gould (1993)	documentary
+1754	movie	Andre (1994)	adventure;children's
+1755	movie	Celluloid Closet, The (1995)	documentary
+1756	movie	Great Day in Harlem, A (1994)	documentary
+1757	movie	One Fine Day (1996)	drama;romance
+1758	movie	Candyman: Farewell to the Flesh (1995)	horror
+1759	movie	Frisk (1995)	drama
+1760	movie	Girl 6 (1996)	comedy
+1761	movie	Eddie (1996)	comedy
+1762	movie	Space Jam (1996)	adventure;animation;children's;comedy;fantasy
+1763	movie	Mrs. Winterbourne (1996)	comedy;romance
+1764	movie	Faces (1968)	drama
+1765	movie	Mulholland Falls (1996)	crime;film-noir;thriller
+1766	movie	Great White Hype, The (1996)	comedy
+1767	movie	Arrival, The (1996)	action;sci-fi;thriller
+1768	movie	Phantom, The (1996)	adventure
+1769	movie	Daylight (1996)	action;adventure;thriller
+1770	movie	Alaska (1996)	adventure;children's
+1771	movie	Fled (1996)	action;adventure
+1772	movie	Power 98 (1995)	action;mystery;thriller
+1773	movie	Escape from L.A. (1996)	action;adventure;sci-fi;thriller
+1774	movie	Bogus (1996)	children's;drama;fantasy
+1775	movie	Bulletproof (1996)	action
+1776	movie	Halloween: The Curse of Michael Myers (1995)	horror;thriller
+1777	movie	Gay Divorcee, The (1934)	comedy;musical;romance
+1778	movie	Ninotchka (1939)	comedy;romance
+1779	movie	Meet John Doe (1941)	drama
+1780	movie	In the Line of Duty 2 (1987)	action
+1781	movie	Loch Ness (1995)	horror;thriller
+1782	movie	Last Man Standing (1996)	action;drama;western
+1783	movie	Glimmer Man, The (1996)	action;thriller
+1784	movie	Pollyanna (1960)	children's;comedy;drama
+1785	movie	Shaggy Dog, The (1959)	children's;comedy
+1786	movie	Freeway (1996)	crime
+1787	movie	That Thing You Do! (1996)	comedy
+1788	movie	To Gillian on Her 37th Birthday (1996)	drama;romance
+1789	movie	Looking for Richard (1996)	documentary;drama
+1790	movie	Murder, My Sweet (1944)	film-noir;thriller
+1791	movie	Days of Thunder (1990)	action;romance
+1792	movie	Perfect Candidate, A (1996)	documentary
+1793	movie	Two or Three Things I Know About Her (1966)	drama
+1794	movie	Bloody Child, The (1996)	drama;thriller
+1795	movie	Braindead (1992)	comedy;horror
+1796	movie	Bad Taste (1987)	comedy;horror
+1797	movie	Diva (1981)	action;drama;mystery;romance;thriller
+1798	movie	Night on Earth (1991)	comedy;drama
+1799	movie	Paris Was a Woman (1995)	documentary
+1800	movie	Amityville: Dollhouse (1996)	horror
+1801	movie	April Fool's Day (1986)	comedy;horror
+1802	movie	Believers, The (1987)	horror;thriller
+1803	movie	Nosferatu a Venezia (1986)	horror
+1804	movie	Jingle All the Way (1996)	adventure;children's;comedy
+1805	movie	Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)	drama
+1806	movie	My Fellow Americans (1996)	comedy
+1807	movie	Ice Storm, The (1997)	drama
+1808	movie	Michael (1996)	comedy;romance
+1809	movie	Whole Wide World, The (1996)	drama
+1810	movie	Hearts and Minds (1996)	drama
+1811	movie	Fools Rush In (1997)	comedy;romance
+1812	movie	Touch (1997)	romance
+1813	movie	Vegas Vacation (1997)	comedy
+1814	movie	Love Jones (1997)	romance
+1815	movie	Picture Perfect (1997)	comedy;romance
+1816	movie	Career Girls (1997)	drama
+1817	movie	She's So Lovely (1997)	drama;romance
+1818	movie	Money Talks (1997)	action;comedy
+1819	movie	Excess Baggage (1997)	adventure;romance
+1820	movie	That Darn Cat! (1997)	children's;comedy;mystery
+1821	movie	Peacemaker, The (1997)	action;thriller;war
+1822	movie	Soul Food (1997)	drama
+1823	movie	Money Talks (1997)	action;comedy
+1824	movie	Washington Square (1997)	drama
+1825	movie	Telling Lies in America (1997)	drama
+1826	movie	Year of the Horse (1997)	documentary
+1827	movie	Phantoms (1998)	horror
+1828	movie	Life Less Ordinary, A (1997)	romance;thriller
+1829	movie	Eve's Bayou (1997)	drama
+1830	movie	One Night Stand (1997)	drama
+1831	movie	Tango Lesson, The (1997)	romance
+1832	movie	Mortal Kombat: Annihilation (1997)	action;adventure
+1833	movie	Bent (1997)	drama;war
+1834	movie	Flubber (1997)	children's;comedy;fantasy
+1835	movie	For Richer or Poorer (1997)	comedy
+1836	movie	Home Alone 3 (1997)	children's;comedy
+1837	movie	Scream 2 (1997)	horror;thriller
+1838	movie	Sweet Hereafter, The (1997)	drama
+1839	movie	Time Tracers (1995)	action;adventure;sci-fi
+1840	movie	Postman, The (1997)	drama
+1841	movie	Winter Guest, The (1997)	drama
+1842	movie	Kundun (1997)	drama
+1843	movie	Mr. Magoo (1997)	comedy
+1844	movie	Big Lebowski, The (1998)	comedy;crime;mystery;thriller
+1845	movie	Afterglow (1997)	drama;romance
+1846	movie	Ma vie en rose (My Life in Pink) (1997)	comedy;drama
+1847	movie	Great Expectations (1998)	drama;romance
+1848	movie	Oscar & Lucinda (1997)	drama;romance
+1849	movie	Vermin (1998)	comedy
+1850	movie	Half Baked (1998)	comedy
+1851	movie	Dangerous Beauty (1998)	drama
+1852	movie	Nil By Mouth (1997)	drama
+1853	movie	Twilight (1998)	crime;drama
+1854	movie	U.S. Marshalls (1998)	action;thriller
+1855	movie	Love and Death on Long Island (1997)	comedy
+1856	movie	Wild Things (1998)	crime;drama;mystery;thriller
+1857	movie	Primary Colors (1998)	drama
+1858	movie	Lost in Space (1998)	action;sci-fi;thriller
+1859	movie	Mercury Rising (1998)	action;drama;thriller
+1860	movie	City of Angels (1998)	romance
+1861	movie	City of Lost Children, The (1995)	adventure;sci-fi
+1862	movie	Two Bits (1995)	drama
+1863	movie	Farewell My Concubine (1993)	drama;romance
+1864	movie	Dead Man (1995)	western
+1865	movie	Raise the Red Lantern (1991)	drama
+1866	movie	White Squall (1996)	adventure;drama
+1867	movie	Unforgettable (1996)	sci-fi;thriller
+1868	movie	Down Periscope (1996)	comedy
+1869	movie	Flower of My Secret, The (Flor de mi secreto, La) (1995)	drama
+1870	movie	Craft, The (1996)	drama;horror
+1871	movie	Harriet the Spy (1996)	children's;comedy
+1872	movie	Chain Reaction (1996)	action;adventure;thriller
+1873	movie	Island of Dr. Moreau, The (1996)	sci-fi;thriller
+1874	movie	First Kid (1996)	children's;comedy
+1875	movie	Funeral, The (1996)	drama
+1876	movie	Preacher's Wife, The (1996)	drama
+1877	movie	Paradise Road (1997)	drama;war
+1878	movie	Brassed Off (1996)	comedy;drama;romance
+1879	movie	Thousand Acres, A (1997)	drama
+1880	movie	Smile Like Yours, A (1997)	comedy;romance
+1881	movie	Murder in the First (1995)	drama;thriller
+1882	movie	Airheads (1994)	comedy
+1883	movie	With Honors (1994)	comedy;drama
+1884	movie	What's Love Got to Do with It (1993)	drama
+1885	movie	Killing Zoe (1994)	thriller
+1886	movie	Renaissance Man (1994)	comedy;drama;war
+1887	movie	Charade (1963)	comedy;mystery;romance;thriller
+1888	movie	Fox and the Hound, The (1981)	animation;children's
+1889	movie	Big Blue, The (Grand bleu, Le) (1988)	adventure;romance
+1890	movie	Booty Call (1997)	comedy;romance
+1891	movie	How to Make an American Quilt (1995)	drama;romance
+1892	movie	Georgia (1995)	drama
+1893	movie	Indian in the Cupboard, The (1995)	adventure;children's;fantasy
+1894	movie	Blue in the Face (1995)	comedy
+1895	movie	Unstrung Heroes (1995)	comedy;drama
+1896	movie	Unzipped (1995)	documentary
+1897	movie	Before Sunrise (1995)	drama;romance
+1898	movie	Nobody's Fool (1994)	drama
+1899	movie	Pushing Hands (1992)	comedy
+1900	movie	To Live (Huozhe) (1994)	drama
+1901	movie	Dazed and Confused (1993)	comedy
+1902	movie	Naked (1993)	drama
+1903	movie	Orlando (1993)	drama
+1904	movie	Ruby in Paradise (1993)	drama
+1905	movie	Some Folks Call It a Sling Blade (1993)	drama;thriller
+1906	movie	Month by the Lake, A (1995)	comedy;drama
+1907	movie	Funny Face (1957)	comedy;musical
+1908	movie	Affair to Remember, An (1957)	romance
+1909	movie	Little Lord Fauntleroy (1936)	drama
+1910	movie	Inspector General, The (1949)	musical
+1911	movie	Winnie the Pooh and the Blustery Day (1968)	animation;children's
+1912	movie	Hear My Song (1991)	comedy
+1913	movie	Mediterraneo (1991)	comedy;war
+1914	movie	Passion Fish (1992)	drama
+1915	movie	Grateful Dead (1995)	documentary
+1916	movie	Eye for an Eye (1996)	drama;thriller
+1917	movie	Fear (1996)	thriller
+1918	movie	Solo (1996)	action;sci-fi;thriller
+1919	movie	Substitute, The (1996)	action
+1920	movie	Heaven's Prisoners (1996)	mystery;thriller
+1921	movie	Trigger Effect, The (1996)	drama;thriller
+1922	movie	Mother Night (1996)	drama
+1923	movie	Dangerous Ground (1997)	drama
+1924	movie	Maximum Risk (1996)	action;adventure;thriller
+1925	movie	Rich Man's Wife, The (1996)	thriller
+1926	movie	Shadow Conspiracy (1997)	thriller
+1927	movie	Blood & Wine (1997)	drama
+1928	movie	Turbulence (1997)	thriller
+1929	movie	Underworld (1997)	thriller
+1930	movie	Beautician and the Beast, The (1997)	comedy;romance
+1931	movie	Cats Don't Dance (1997)	animation;children's;musical
+1932	movie	Anna Karenina (1997)	drama;romance
+1933	movie	Keys to Tulsa (1997)	crime
+1934	movie	Head Above Water (1996)	comedy;thriller
+1935	movie	Hercules (1997)	adventure;animation;children's;comedy;musical
+1936	movie	Last Time I Committed Suicide, The (1997)	drama
+1937	movie	Kiss Me, Guido (1997)	comedy
+1938	movie	Big Green, The (1995)	children's;comedy
+1939	movie	Stuart Saves His Family (1995)	comedy
+1940	movie	Cabin Boy (1994)	comedy
+1941	movie	Clean Slate (1994)	comedy
+1942	movie	Lightning Jack (1994)	comedy;western
+1943	movie	Stupids, The (1996)	comedy
+1944	movie	Pest, The (1997)	comedy
+1945	movie	That Darn Cat! (1997)	children's;comedy;mystery
+1946	movie	Geronimo: An American Legend (1993)	drama;western
+1947	movie	Double vie de Vronique, La (Double Life of Veronique, The) (1991)	drama
+1948	movie	Until the End of the World (Bis ans Ende der Welt) (1991)	drama;sci-fi
+1949	movie	Waiting for Guffman (1996)	comedy
+1950	movie	I Shot Andy Warhol (1996)	drama
+1951	movie	Stealing Beauty (1996)	drama
+1952	movie	Basquiat (1996)	drama
+1953	movie	2 Days in the Valley (1996)	crime
+1954	movie	Private Parts (1997)	comedy;drama
+1955	movie	Anaconda (1997)	action;adventure;thriller
+1956	movie	Romy and Michele's High School Reunion (1997)	comedy
+1957	movie	Shiloh (1997)	children's;drama
+1958	movie	Con Air (1997)	action;adventure;thriller
+1959	movie	Trees Lounge (1996)	drama
+1960	movie	Tie Me Up! Tie Me Down! (1990)	drama
+1961	movie	Die xue shuang xiong (Killer, The) (1989)	action;thriller
+1962	movie	Gaslight (1944)	mystery;thriller
+1963	movie	8 1/2 (1963)	drama
+1964	movie	Fast, Cheap & Out of Control (1997)	documentary
+1965	movie	Fathers' Day (1997)	comedy
+1966	movie	Mrs. Dalloway (1997)	romance
+1967	movie	Fire Down Below (1997)	action;drama;thriller
+1968	movie	Lay of the Land, The (1997)	comedy;drama
+1969	movie	Shooter, The (1995)	action
+1970	movie	Grumpier Old Men (1995)	comedy;romance
+1971	movie	Jury Duty (1995)	comedy
+1972	movie	Beverly Hillbillies, The (1993)	comedy
+1973	movie	Lassie (1994)	adventure;children's
+1974	movie	Little Big League (1994)	children's;comedy
+1975	movie	Homeward Bound II: Lost in San Francisco (1996)	adventure;children's
+1976	movie	Quest, The (1996)	action;adventure
+1977	movie	Cool Runnings (1993)	comedy
+1978	movie	Drop Dead Fred (1991)	comedy;fantasy
+1979	movie	Grease 2 (1982)	comedy;musical;romance
+1980	movie	Switchback (1997)	thriller
+1981	movie	Hamlet (1996)	drama
+1982	movie	Two if by Sea (1996)	comedy;romance
+1983	movie	Forget Paris (1995)	comedy;romance
+1984	movie	Just Cause (1995)	mystery;thriller
+1985	movie	Rent-a-Kid (1995)	comedy
+1986	movie	Paper, The (1994)	comedy;drama
+1987	movie	Fearless (1993)	drama
+1988	movie	Malice (1993)	thriller
+1989	movie	Multiplicity (1996)	comedy
+1990	movie	She's the One (1996)	comedy;romance
+1991	movie	House Arrest (1996)	comedy
+1992	movie	Ghost and Mrs. Muir, The (1947)	drama;romance
+1993	movie	Associate, The (1996)	comedy
+1994	movie	Dracula: Dead and Loving It (1995)	comedy;horror
+1995	movie	Now and Then (1995)	drama
+1996	movie	Mr. Wrong (1996)	comedy
+1997	movie	Simple Twist of Fate, A (1994)	drama
+1998	movie	Cronos (1992)	horror
+1999	movie	Pallbearer, The (1996)	comedy
+2000	movie	War, The (1994)	adventure;drama
+2001	movie	Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)	comedy
+2002	movie	Adventures of Pinocchio, The (1996)	adventure;children's
+2003	movie	Evening Star, The (1996)	comedy;drama
+2004	movie	Four Days in September (1997)	drama
+2005	movie	Little Princess, A (1995)	children's;drama
+2006	movie	Crossfire (1947)	crime;film-noir
+2007	movie	Koyaanisqatsi (1983)	documentary;war
+2008	movie	Balto (1995)	animation;children's
+2009	movie	Bottle Rocket (1996)	comedy
+2010	movie	Star Maker, The (Uomo delle stelle, L') (1995)	drama
+2011	movie	Amateur (1994)	crime;drama;thriller
+2012	movie	Living in Oblivion (1995)	comedy
+2013	movie	Party Girl (1995)	comedy
+2014	movie	Pyromaniac's Love Story, A (1995)	comedy;romance
+2015	movie	Shallow Grave (1994)	thriller
+2016	movie	Reality Bites (1994)	comedy;drama
+2017	movie	Man of No Importance, A (1994)	drama
+2018	movie	Pagemaster, The (1994)	action;adventure;animation;children's;fantasy
+2019	movie	Love and a .45 (1994)	thriller
+2020	movie	Oliver & Company (1988)	animation;children's
+2021	movie	Joe's Apartment (1996)	comedy;musical
+2022	movie	Celestial Clockwork (1994)	comedy
+2023	movie	Curdled (1996)	crime
+2024	movie	Female Perversions (1996)	drama
+2025	movie	Albino Alligator (1996)	crime;thriller
+2026	movie	Anne Frank Remembered (1995)	documentary
+2027	movie	Carried Away (1996)	drama;romance
+2028	movie	It's My Party (1995)	drama
+2029	movie	Bloodsport 2 (1995)	action
+2030	movie	Double Team (1997)	action
+2031	movie	Speed 2: Cruise Control (1997)	action;romance;thriller
+2032	movie	Sliver (1993)	thriller
+2033	movie	Pete's Dragon (1977)	adventure;animation;children's;musical
+2034	movie	Dear God (1996)	comedy
+2035	movie	Live Nude Girls (1995)	comedy
+2036	movie	Thin Line Between Love and Hate, A (1996)	comedy
+2037	movie	High School High (1996)	comedy
+2038	movie	Commandments (1997)	romance
+2039	movie	Hate (Haine, La) (1995)	drama
+2040	movie	Flirting With Disaster (1996)	comedy
+2041	movie	Red Firecracker, Green Firecracker (1994)	drama
+2042	movie	What Happened Was... (1994)	comedy;drama;romance
+2043	movie	Six Degrees of Separation (1993)	drama;mystery
+2044	movie	Two Much (1996)	comedy;romance
+2045	movie	Trust (1990)	comedy;drama
+2046	movie	C'est arriv prs de chez vous (1992)	comedy;crime;drama
+2047	movie	Firestorm (1998)	action;adventure;thriller
+2048	movie	Newton Boys, The (1998)	crime;drama
+2049	movie	Beyond Rangoon (1995)	drama
+2050	movie	Feast of July (1995)	drama
+2051	movie	Death and the Maiden (1994)	drama;thriller
+2052	movie	Tank Girl (1995)	action;comedy;musical;sci-fi
+2053	movie	Double Happiness (1994)	drama
+2054	movie	Cobb (1994)	drama
+2055	movie	Mrs. Parker and the Vicious Circle (1994)	drama
+2056	movie	Faithful (1996)	comedy
+2057	movie	Twelfth Night (1996)	comedy;drama;romance
+2058	movie	Mark of Zorro, The (1940)	adventure
+2059	movie	Surviving Picasso (1996)	drama
+2060	movie	Up in Smoke (1978)	comedy
+2061	movie	Some Kind of Wonderful (1987)	drama;romance
+2062	movie	I'm Not Rappaport (1996)	comedy
+2063	movie	Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)	drama;musical
+2064	movie	They Made Me a Criminal (1939)	crime;drama
+2065	movie	Last Time I Saw Paris, The (1954)	drama
+2066	movie	Farewell to Arms, A (1932)	romance;war
+2067	movie	Innocents, The (1961)	thriller
+2068	movie	Old Man and the Sea, The (1958)	adventure;drama
+2069	movie	Truman Show, The (1998)	drama
+2070	movie	Heidi Fleiss: Hollywood Madam (1995) 	documentary
+2071	movie	Chungking Express (1994)	drama;mystery;romance
+2072	movie	Jupiter's Wife (1994)	documentary
+2073	movie	Safe (1995)	thriller
+2074	movie	Feeling Minnesota (1996)	drama;romance
+2075	movie	Escape to Witch Mountain (1975)	adventure;children's;fantasy
+2076	movie	Get on the Bus (1996)	drama
+2077	movie	Doors, The (1991)	drama;musical
+2078	movie	Ghosts of Mississippi (1996)	drama
+2079	movie	Beautiful Thing (1996)	drama;romance
+2080	movie	Best Men (1997)	action;comedy;crime;drama
+2081	movie	Hackers (1995)	action;crime;thriller
+2082	movie	Road to Wellville, The (1994)	comedy
+2083	movie	War Room, The (1993)	documentary
+2084	movie	When We Were Kings (1996)	documentary
+2085	movie	Hard Eight (1996)	crime;thriller
+2086	movie	Quiet Room, The (1996)	drama
+2087	movie	Blue Chips (1994)	drama
+2088	movie	Calendar Girl (1993)	drama
+2089	movie	My Family (1995)	drama
+2090	movie	Tom & Viv (1994)	drama
+2091	movie	Walkabout (1971)	drama
+2092	movie	Last Dance (1996)	drama
+2093	movie	Original Gangstas (1996)	crime
+2094	movie	In Love and War (1996)	romance;war
+2095	movie	Backbeat (1993)	drama;musical
+2096	movie	Alphaville (1965)	sci-fi
+2097	movie	Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)	comedy;romance
+2098	movie	Cyclo (1995)	crime;drama
+2099	movie	Relic, The (1997)	horror
+2100	movie	Fille seule, La (A Single Girl) (1995)	drama
+2101	movie	Stalker (1979)	mystery;sci-fi
+2102	movie	Love! Valour! Compassion! (1997)	drama;romance
+2103	movie	Palookaville (1996)	action;drama
+2104	movie	Phat Beach (1996)	comedy
+2105	movie	Portrait of a Lady, The (1996)	drama
+2106	movie	Zeus and Roxanne (1997)	children's
+2107	movie	Big Bully (1996)	comedy;drama
+2108	movie	Love & Human Remains (1993)	comedy
+2109	movie	Sum of Us, The (1994)	comedy
+2110	movie	Little Buddha (1993)	drama
+2111	movie	Fresh (1994)	drama
+2112	movie	Spanking the Monkey (1994)	comedy;drama
+2113	movie	Wild Reeds (1994)	drama
+2114	movie	Women, The (1939)	comedy
+2115	movie	Bliss (1997)	drama;romance
+2116	movie	Caught (1996)	drama;thriller
+2117	movie	Hugo Pool (1997)	romance
+2118	movie	Welcome To Sarajevo (1997)	drama;war
+2119	movie	Dunston Checks In (1996)	comedy
+2120	movie	Major Payne (1994)	comedy
+2121	movie	Man of the House (1995)	comedy
+2122	movie	I Love Trouble (1994)	action;comedy
+2123	movie	Low Down Dirty Shame, A (1994)	action;comedy
+2124	movie	Cops and Robbersons (1994)	comedy
+2125	movie	Cowboy Way, The (1994)	action;comedy
+2126	movie	Endless Summer 2, The (1994)	documentary
+2127	movie	In the Army Now (1994)	comedy;war
+2128	movie	Inkwell, The (1994)	comedy;drama
+2129	movie	Switchblade Sisters (1975)	crime
+2130	movie	Young Guns II (1990)	action;comedy;western
+2131	movie	Prefontaine (1997)	drama
+2132	movie	That Old Feeling (1997)	comedy;romance
+2133	movie	Letter From Death Row, A (1998)	crime;drama
+2134	movie	Boys of St. Vincent, The (1993)	drama
+2135	movie	Before the Rain (Pred dozhdot) (1994)	drama
+2136	movie	Once Were Warriors (1994)	crime;drama
+2137	movie	Strawberry and Chocolate (Fresa y chocolate) (1993)	drama
+2138	movie	Savage Nights (Nuits fauves, Les) (1992)	drama
+2139	movie	Family Thing, A (1996)	comedy;drama
+2140	movie	Purple Noon (1960)	crime;thriller
+2141	movie	Cemetery Man (Dellamorte Dellamore) (1994)	comedy;horror
+2142	movie	Kim (1950)	children's;drama
+2143	movie	Marlene Dietrich: Shadow and Light (1996) 	documentary
+2144	movie	Maybe, Maybe Not (Bewegte Mann, Der) (1994)	comedy
+2145	movie	Top Hat (1935)	comedy;musical;romance
+2146	movie	To Be or Not to Be (1942)	comedy;drama;war
+2147	movie	Secret Agent, The (1996)	drama
+2148	movie	Amos & Andrew (1993)	comedy
+2149	movie	Jade (1995)	thriller
+2150	movie	Kiss of Death (1995)	crime;drama;thriller
+2151	movie	Mixed Nuts (1994)	comedy
+2152	movie	Virtuosity (1995)	sci-fi;thriller
+2153	movie	Blue Sky (1994)	drama;romance
+2154	movie	Flesh and Bone (1993)	drama;mystery;romance
+2155	movie	Guilty as Sin (1993)	crime;drama;thriller
+2156	movie	In the Realm of the Senses (Ai no corrida) (1976)	drama
+2157	movie	Barb Wire (1996)	action;sci-fi
+2158	movie	Kissed (1996)	romance
+2159	movie	Assassins (1995)	thriller
+2160	movie	Friday (1995)	comedy
+2161	movie	Goofy Movie, A (1995)	animation;children's;comedy;romance
+2162	movie	Higher Learning (1995)	drama
+2163	movie	When a Man Loves a Woman (1994)	drama
+2164	movie	Judgment Night (1993)	action
+2165	movie	King of the Hill (1993)	drama
+2166	movie	Scout, The (1994)	drama
+2167	movie	Angus (1995)	comedy
+2168	movie	Night Falls on Manhattan (1997)	crime;drama
+2169	movie	Awfully Big Adventure, An (1995)	drama
+2170	movie	Under Siege 2: Dark Territory (1995)	action
+2171	movie	Poison Ivy II (1995)	drama;thriller
+2172	movie	Ready to Wear (Pret-A-Porter) (1994)	comedy
+2173	movie	Marked for Death (1990)	action;drama
+2174	movie	Madonna: Truth or Dare (1991)	documentary
+2175	movie	Nnette et Boni (1996)	drama
+2176	movie	Chairman of the Board (1998)	comedy
+2177	movie	Big Bang Theory, The (1994)	crime
+2178	movie	Other Voices, Other Rooms (1997)	drama
+2179	movie	Twisted (1996)	comedy;drama
+2180	movie	Full Speed (1996)	drama
+2181	movie	Cutthroat Island (1995)	action;adventure;romance
+2182	movie	Ghost in the Shell (Kokaku kidotai) (1995)	animation;sci-fi
+2183	movie	Van, The (1996)	comedy;drama
+2184	movie	Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)	comedy
+2185	movie	Night Flier (1997)	horror
+2186	movie	Metro (1997)	action
+2187	movie	Gridlock'd (1997)	crime
+2188	movie	Bushwhacked (1995)	comedy
+2189	movie	Bad Girls (1994)	western
+2190	movie	Blink (1994)	thriller
+2191	movie	For Love or Money (1993)	comedy
+2192	movie	Best of the Best 3: No Turning Back (1995)	action
+2193	movie	A Chef in Love (1996)	comedy
+2194	movie	Contempt (Mpris, Le) (1963)	drama
+2195	movie	Tie That Binds, The (1995)	thriller
+2196	movie	Gone Fishin' (1997)	comedy
+2197	movie	Broken English (1996)	drama
+2198	movie	Designated Mourner, The (1997)	drama
+2199	movie	Designated Mourner, The (1997)	drama
+2200	movie	Trial and Error (1997)	comedy;romance
+2201	movie	Pie in the Sky (1995)	comedy;romance
+2202	movie	Total Eclipse (1995)	drama
+2203	movie	Run of the Country, The (1995)	drama
+2204	movie	Walking and Talking (1996)	romance
+2205	movie	Foxfire (1996)	drama
+2206	movie	Nothing to Lose (1994)	drama
+2207	movie	Star Maps (1997)	drama
+2208	movie	Bread and Chocolate (Pane e cioccolata) (1973)	drama
+2209	movie	Clockers (1995)	drama
+2210	movie	Bitter Moon (1992)	drama
+2211	movie	Love in the Afternoon (1957)	comedy;romance
+2212	movie	Life with Mikey (1993)	comedy
+2213	movie	North (1994)	comedy
+2214	movie	Talking About Sex (1994)	comedy;drama
+2215	movie	Color of Night (1994)	drama;thriller
+2216	movie	Robocop 3 (1993)	sci-fi;thriller
+2217	movie	Killer (Bulletproof Heart) (1994)	thriller
+2218	movie	Sunset Park (1996)	drama
+2219	movie	Set It Off (1996)	action;crime
+2220	movie	Selena (1997)	drama;musical
+2221	movie	Wild America (1997)	adventure;children's
+2222	movie	Gang Related (1997)	crime
+2223	movie	Manny & Lo (1996)	drama
+2224	movie	Grass Harp, The (1995)	drama
+2225	movie	Out to Sea (1997)	comedy
+2226	movie	Before and After (1996)	drama;mystery
+2227	movie	Princess Caraboo (1994)	drama
+2228	movie	Shall We Dance? (1937)	comedy;musical;romance
+2229	movie	Ed (1996)	comedy
+2230	movie	Denise Calls Up (1995)	comedy
+2231	movie	Jack and Sarah (1995)	romance
+2232	movie	Country Life (1994)	drama;romance
+2233	movie	Celtic Pride (1996)	comedy
+2234	movie	Simple Wish, A (1997)	children's;fantasy
+2235	movie	Star Kid (1997)	adventure;children's;fantasy;sci-fi
+2236	movie	Ayn Rand: A Sense of Life (1997)	documentary
+2237	movie	Kicked in the Head (1997)	comedy;drama
+2238	movie	Indian Summer (1996)	comedy;drama
+2239	movie	Love Affair (1994)	drama;romance
+2240	movie	Band Wagon, The (1953)	comedy;musical
+2241	movie	Penny Serenade (1941)	drama;romance
+2242	movie	'Til There Was You (1997)	drama;romance
+2243	movie	Stripes (1981)	comedy
+2244	movie	Late Bloomers (1996)	comedy
+2245	movie	Getaway, The (1994)	action
+2246	movie	New York Cop (1996)	action;crime
+2247	movie	National Lampoon's Senior Trip (1995)	comedy
+2248	movie	Delta of Venus (1994)	drama
+2249	movie	Carmen Miranda: Bananas Is My Business (1994)	documentary
+2250	movie	Babyfever (1994)	comedy;drama
+2251	movie	Very Natural Thing, A (1974)	drama
+2252	movie	Walk in the Sun, A (1945)	drama
+2253	movie	Waiting to Exhale (1995)	comedy;drama
+2254	movie	Pompatus of Love, The (1996)	comedy;drama
+2255	movie	Palmetto (1998)	film-noir;mystery;thriller
+2256	movie	Surviving the Game (1994)	action;adventure;thriller
+2257	movie	Inventing the Abbotts (1997)	drama;romance
+2258	movie	Horse Whisperer, The (1998)	drama
+2259	movie	Journey of August King, The (1995)	drama
+2260	movie	Catwalk (1995)	documentary
+2261	movie	Neon Bible, The (1995)	drama
+2262	movie	Homage (1995)	drama
+2263	movie	Open Season (1996)	comedy
+2264	movie	Metisse (Caf au Lait) (1993)	comedy
+2265	movie	Wooden Man's Bride, The (Wu Kui) (1994)	drama
+2266	movie	Loaded (1994)	drama;thriller
+2267	movie	August (1996)	drama
+2268	movie	Boys (1996)	drama
+2269	movie	Captives (1994)	drama
+2270	movie	Of Love and Shadows (1994)	drama
+2271	movie	Low Life, The (1994)	drama
+2272	movie	An Unforgettable Summer (1994)	drama
+2273	movie	Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)	documentary
+2274	movie	My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)	drama
+2275	movie	Midnight Dancers (Sibak) (1994)	comedy;drama
+2276	movie	Somebody to Love (1994)	drama
+2277	movie	American Buffalo (1996)	drama
+2278	movie	Kazaam (1996)	children's;comedy;fantasy
+2279	movie	Larger Than Life (1996)	comedy
+2280	movie	Two Deaths (1995)	drama
+2281	movie	Stefano Quantestorie (1993)	comedy;drama
+2282	movie	Crude Oasis, The (1995)	romance
+2283	movie	Hedd Wyn (1992)	drama
+2284	movie	Convent, The (Convento, O) (1995)	drama
+2285	movie	Lotto Land (1995)	drama
+2286	movie	Story of Xinghua, The (1993)	drama
+2287	movie	Day the Sun Turned Cold, The (Tianguo niezi) (1994)	drama
+2288	movie	Dingo (1992)	drama
+2289	movie	Ballad of Narayama, The (Narayama Bushiko) (1958)	drama
+2290	movie	Every Other Weekend (1990)	drama
+2291	movie	Mille bolle blu (1993)	comedy
+2292	movie	Crows and Sparrows (1949)	drama
+2293	movie	Lover's Knot (1996)	comedy
+2294	movie	Shadow of Angels (Schatten der Engel) (1976)	drama
+2295	movie	1-900 (1994)	romance
+2296	movie	Venice/Venice (1992)	drama
+2297	movie	Infinity (1996)	drama
+2298	movie	Ed's Next Move (1996)	comedy
+2299	movie	For the Moment (1994)	romance;war
+2300	movie	The Deadly Cure (1996)	action
+2301	movie	Boys in Venice (1996)	drama
+2302	movie	Sexual Life of the Belgians, The (1994)	comedy
+2303	movie	Search for One-eye Jimmy, The (1996)	comedy
+2304	movie	American Strays (1996)	action
+2305	movie	Leopard Son, The (1996)	documentary
+2306	movie	Bird of Prey (1996)	action
+2307	movie	Johnny 100 Pesos (1993)	action;drama
+2308	movie	JLG/JLG - autoportrait de dcembre (1994)	documentary;drama
+2309	movie	Faust (1994)	animation
+2310	movie	Mina Tannenbaum (1994)	drama
+2311	movie	Forbidden Christ, The (Cristo proibito, Il) (1950)	drama
+2312	movie	I Can't Sleep (J'ai pas sommeil) (1994)	drama;thriller
+2313	movie	Machine, The (1994)	comedy;horror
+2314	movie	Stranger, The (1994)	action
+2315	movie	Good Morning (1971)	unknown
+2316	movie	Falling in Love Again (1980)	comedy
+2317	movie	Cement Garden, The (1993)	drama
+2318	movie	Meet Wally Sparks (1997)	comedy
+2319	movie	Hotel de Love (1996)	comedy;romance
+2320	movie	Rhyme & Reason (1997)	documentary
+2321	movie	Love and Other Catastrophes (1996)	romance
+2322	movie	Hollow Reed (1996)	drama
+2323	movie	Losing Chase (1996)	drama
+2324	movie	Bonheur, Le (1965)	drama
+2325	movie	Second Jungle Book: Mowgli & Baloo, The (1997)	adventure;children's
+2326	movie	Squeeze (1996)	drama
+2327	movie	Roseanna's Grave (For Roseanna) (1997)	comedy;romance
+2328	movie	Tetsuo II: Body Hammer (1992)	sci-fi
+2329	movie	Fall (1997)	romance
+2330	movie	Gabbeh (1996)	drama
+2331	movie	Mondo (1996)	drama
+2332	movie	Innocent Sleep, The (1995)	crime
+2333	movie	For Ever Mozart (1996)	drama
+2334	movie	Locusts, The (1997)	drama
+2335	movie	Stag (1997)	action;thriller
+2336	movie	Swept from the Sea (1997)	romance
+2337	movie	Hurricane Streets (1998)	drama
+2338	movie	Stonewall (1995)	drama
+2339	movie	Of Human Bondage (1934)	drama
+2340	movie	Anna (1996)	drama
+2341	movie	Stranger in the House (1997)	thriller
+2342	movie	Picture Bride (1995)	drama;romance
+2343	movie	M. Butterfly (1993)	drama
+2344	movie	Ciao, Professore! (1993)	drama
+2345	movie	Caro Diario (Dear Diary) (1994)	comedy;drama
+2346	movie	Withnail and I (1987)	comedy
+2347	movie	Boy's Life 2 (1997)	drama
+2348	movie	When Night Is Falling (1995)	drama;romance
+2349	movie	Specialist, The (1994)	action
+2350	movie	Gordy (1995)	comedy
+2351	movie	Swan Princess, The (1994)	animation;children's
+2352	movie	Harlem (1993)	drama
+2353	movie	Barbarella (1968)	adventure;sci-fi
+2354	movie	Land Before Time III: The Time of the Great Giving (1995) (V)	animation;children's
+2355	movie	Street Fighter (1994)	action
+2356	movie	Coldblooded (1995)	action
+2357	movie	Next Karate Kid, The (1994)	action;children's
+2358	movie	No Escape (1994)	action;sci-fi
+2359	movie	Turning, The (1992)	drama
+2360	movie	Joy Luck Club, The (1993)	drama
+2361	movie	Highlander III: The Sorcerer (1994)	action;sci-fi
+2362	movie	Gilligan's Island: The Movie (1998)	comedy
+2363	movie	My Crazy Life (Mi vida loca) (1993)	drama
+2364	movie	Suture (1993)	film-noir;thriller
+2365	movie	Walking Dead, The (1995)	drama;war
+2366	movie	I Like It Like That (1994)	comedy;drama;romance
+2367	movie	I'll Do Anything (1994)	comedy;drama
+2368	movie	Grace of My Heart (1996)	comedy;drama
+2369	movie	Drunks (1995)	drama
+2370	movie	SubUrbia (1997)	comedy
+2371	movie	Sliding Doors (1998)	drama;romance
+2372	movie	Ill Gotten Gains (1997)	drama
+2373	movie	Legal Deceit (1997)	thriller
+2374	movie	Mighty, The (1998)	drama
+2375	movie	Men of Means (1998)	action;drama
+2376	movie	Shooting Fish (1997)	romance
+2377	movie	Steal Big, Steal Little (1995)	comedy
+2378	movie	Mr. Jones (1993)	drama;romance
+2379	movie	House Party 3 (1994)	comedy
+2380	movie	Panther (1995)	drama
+2381	movie	Jason's Lyric (1994)	crime;drama
+2382	movie	Above the Rim (1994)	drama
+2383	movie	Moonlight and Valentino (1995)	drama;romance
+2384	movie	Scarlet Letter, The (1995)	drama
+2385	movie	8 Seconds (1994)	drama
+2386	movie	That Darn Cat! (1965)	children's;comedy;mystery
+2387	movie	Ladybird Ladybird (1994)	drama
+2388	movie	Bye Bye, Love (1995)	comedy
+2389	movie	Century (1993)	drama
+2390	movie	My Favorite Season (1993)	drama
+2391	movie	Pather Panchali (1955)	drama
+2392	movie	Golden Earrings (1947)	adventure;romance
+2393	movie	Foreign Correspondent (1940)	thriller
+2394	movie	Lady of Burlesque (1943)	comedy;mystery
+2395	movie	Angel on My Shoulder (1946)	crime;drama
+2396	movie	Angel and the Badman (1947)	western
+2397	movie	Outlaw, The (1943)	western
+2398	movie	Beat the Devil (1954)	comedy;drama
+2399	movie	Love Is All There Is (1996)	comedy;drama
+2400	movie	Damsel in Distress, A (1937)	comedy;musical;romance
+2401	movie	Madame Butterfly (1995)	musical
+2402	movie	Sleepover (1995)	comedy;drama
+2403	movie	Here Comes Cookie (1935)	comedy
+2404	movie	Thieves (Voleurs, Les) (1996)	crime;drama;romance
+2405	movie	Boys, Les (1997)	comedy
+2406	movie	Stars Fell on Henrietta, The (1995)	drama
+2407	movie	Last Summer in the Hamptons (1995)	comedy;drama
+2408	movie	Margaret's Museum (1995)	drama
+2409	movie	Saint of Fort Washington, The (1993)	drama
+2410	movie	Cure, The (1995)	drama
+2411	movie	Tom and Huck (1995)	adventure;children's
+2412	movie	Gumby: The Movie (1995)	animation;children's
+2413	movie	Hideaway (1995)	thriller
+2414	movie	Visitors, The (Visiteurs, Les) (1993)	comedy;sci-fi
+2415	movie	Little Princess, The (1939)	children's;drama
+2416	movie	Nina Takes a Lover (1994)	comedy;romance
+2417	movie	Bhaji on the Beach (1993)	comedy;drama
+2418	movie	Raw Deal (1948)	film-noir
+2419	movie	Nightwatch (1997)	horror;thriller
+2420	movie	Dead Presidents (1995)	action;crime;drama
+2421	movie	Reckless (1995)	comedy
+2422	movie	Herbie Rides Again (1974)	adventure;children's;comedy
+2423	movie	S.F.W. (1994)	drama
+2424	movie	Gate of Heavenly Peace, The (1995)	documentary
+2425	movie	Man in the Iron Mask, The (1998)	action;drama;romance
+2426	movie	Jerky Boys, The (1994)	action;comedy
+2427	movie	Colonel Chabert, Le (1994)	drama;romance;war
+2428	movie	Girl in the Cadillac (1995)	drama
+2429	movie	Even Cowgirls Get the Blues (1993)	comedy;romance
+2430	movie	Germinal (1993)	drama
+2431	movie	Chasers (1994)	comedy
+2432	movie	Fausto (1993)	comedy
+2433	movie	Tough and Deadly (1995)	action;drama;thriller
+2434	movie	Window to Paris (1994)	comedy
+2435	movie	Modern Affair, A (1995)	romance
+2436	movie	Mostro, Il (1994)	comedy
+2437	movie	Flirt (1995)	drama
+2438	movie	Carpool (1996)	comedy;crime
+2439	movie	Line King: Al Hirschfeld, The (1996)	documentary
+2440	movie	Farmer & Chase (1995)	comedy
+2441	movie	Grosse Fatigue (1994)	comedy
+2442	movie	Santa with Muscles (1996)	comedy
+2443	movie	Prisoner of the Mountains (Kavkazsky Plennik) (1996)	war
+2444	movie	Naked in New York (1994)	comedy;romance
+2445	movie	Gold Diggers: The Secret of Bear Mountain (1995)	adventure;children's
+2446	movie	Bewegte Mann, Der (1994)	comedy
+2447	movie	Killer: A Journal of Murder (1995)	crime;drama
+2448	movie	Nelly & Monsieur Arnaud (1995)	drama
+2449	movie	Three Lives and Only One Death (1996)	comedy
+2450	movie	Babysitter, The (1995)	drama;thriller
+2451	movie	Getting Even with Dad (1994)	comedy
+2452	movie	Mad Dog Time (1996)	crime
+2453	movie	Children of the Revolution (1996)	comedy
+2454	movie	World of Apu, The (Apur Sansar) (1959)	drama
+2455	movie	Sprung (1997)	comedy
+2456	movie	Dream With the Fishes (1997)	drama
+2457	movie	Wings of Courage (1995)	adventure;romance
+2458	movie	Wedding Gift, The (1994)	drama
+2459	movie	Race the Sun (1996)	drama
+2460	movie	Losing Isaiah (1995)	drama
+2461	movie	New Jersey Drive (1995)	crime;drama
+2462	movie	Fear, The (1995)	horror
+2463	movie	Mr. Wonderful (1993)	comedy;romance
+2464	movie	Trial by Jury (1994)	thriller
+2465	movie	Good Man in Africa, A (1994)	action;adventure
+2466	movie	Kaspar Hauser (1993)	drama
+2467	movie	Object of My Affection, The (1998)	comedy;romance
+2468	movie	Witness (1985)	drama;romance;thriller
+2469	movie	Senseless (1998)	comedy
+2470	movie	Nowhere (1997)	drama
+2471	movie	Underground (1995)	war
+2472	movie	Jefferson in Paris (1995)	drama
+2473	movie	Far From Home: The Adventures of Yellow Dog (1995)	adventure;children's
+2474	movie	Foreign Student (1994)	drama
+2475	movie	I Don't Want to Talk About It (De eso no se habla) (1993)	drama
+2476	movie	Twin Town (1997)	comedy;crime
+2477	movie	Enfer, L' (1994)	drama
+2478	movie	Aiqing wansui (1994)	drama
+2479	movie	Cosi (1996)	comedy
+2480	movie	All Over Me (1997)	drama
+2481	movie	Being Human (1993)	drama
+2482	movie	Amazing Panda Adventure, The (1995)	adventure;children's
+2483	movie	Beans of Egypt, Maine, The (1994)	drama
+2484	movie	Scarlet Letter, The (1926)	drama
+2485	movie	Johns (1996)	drama
+2486	movie	It Takes Two (1995)	comedy
+2487	movie	Frankie Starlight (1995)	drama;romance
+2488	movie	Shadows (Cienie) (1988)	drama
+2489	movie	Show, The (1995)	documentary
+2490	movie	The Courtyard (1995)	action;thriller
+2491	movie	Dream Man (1995)	thriller
+2492	movie	Destiny Turns on the Radio (1995)	comedy
+2493	movie	Glass Shield, The (1994)	drama
+2494	movie	Hunted, The (1995)	action
+2495	movie	Underneath, The (1995)	mystery;thriller
+2496	movie	Safe Passage (1994)	drama
+2497	movie	Secret Adventures of Tom Thumb, The (1993)	adventure;children's
+2498	movie	Condition Red (1995)	action;drama;thriller
+2499	movie	Yankee Zulu (1994)	comedy;drama
+2500	movie	Aparajito (1956)	drama
+2501	movie	Hostile Intentions (1994)	action;drama;thriller
+2502	movie	Clean Slate (Coup de Torchon) (1981)	crime
+2503	movie	Tigrero: A Film That Was Never Made (1994)	documentary;drama
+2504	movie	Eye of Vichy, The (Oeil de Vichy, L') (1993)	documentary
+2505	movie	Promise, The (Versprechen, Das) (1994)	romance
+2506	movie	To Cross the Rubicon (1991)	drama
+2507	movie	Daens (1992)	drama
+2508	movie	Man from Down Under, The (1943)	drama
+2509	movie	Careful (1992)	comedy
+2510	movie	Vermont Is For Lovers (1992)	comedy;romance
+2511	movie	Vie est belle, La (Life is Rosey) (1987)	comedy;drama
+2512	movie	Quartier Mozart (1992)	comedy
+2513	movie	Touki Bouki (Journey of the Hyena) (1973)	drama
+2514	movie	Wend Kuuni (God's Gift) (1982)	drama
+2515	movie	Spirits of the Dead (Tre passi nel delirio) (1968)	horror
+2516	movie	Pharaoh's Army (1995)	war
+2517	movie	I, Worst of All (Yo, la peor de todas) (1990)	drama
+2518	movie	Hungarian Fairy Tale, A (1987)	fantasy
+2519	movie	Death in the Garden (Mort en ce jardin, La) (1956)	drama
+2520	movie	Collectionneuse, La (1967)	drama
+2521	movie	Baton Rouge (1988)	thriller
+2522	movie	Liebelei (1933)	romance
+2523	movie	Woman in Question, The (1950)	mystery
+2524	movie	T-Men (1947)	film-noir
+2525	movie	Invitation, The (Zaproszenie) (1986)	drama
+2526	movie	Symphonie pastorale, La (1946)	drama
+2527	movie	American Dream (1990)	documentary
+2528	movie	Lashou shentan (1992)	action;crime;drama
+2529	movie	Terror in a Texas Town (1958)	western
+2530	movie	Salut cousin! (1996)	comedy;drama
+2531	movie	Schizopolis (1996)	comedy
+2532	movie	To Have, or Not (1995)	drama
+2533	movie	Duoluo tianshi (1995)	drama
+2534	movie	Magic Hour, The (1998)	drama
+2535	movie	Death in Brunswick (1991)	comedy
+2536	movie	Everest (1998)	documentary
+2537	movie	Shopping (1994)	action;thriller
+2538	movie	Nemesis 2: Nebula (1995)	action;sci-fi;thriller
+2539	movie	Romper Stomper (1992)	action;drama
+2540	movie	City of Industry (1997)	crime;thriller
+2541	movie	Someone Else's America (1995)	drama
+2542	movie	Guantanamera (1994)	comedy
+2543	movie	Office Killer (1997)	thriller
+2544	movie	Price Above Rubies, A (1998)	drama
+2545	movie	Angela (1995)	drama
+2546	movie	He Walked by Night (1948)	crime;film-noir;thriller
+2547	movie	Love Serenade (1996)	comedy
+2548	movie	Deceiver (1997)	crime
+2549	movie	Hurricane Streets (1998)	drama
+2550	movie	Buddy (1997)	adventure;children's;drama
+2551	movie	B*A*P*S (1997)	comedy
+2552	movie	Truth or Consequences, N.M. (1997)	action;crime;romance
+2553	movie	Intimate Relations (1996)	comedy
+2554	movie	Leading Man, The (1996)	romance
+2555	movie	Tokyo Fist (1995)	action;drama
+2556	movie	Reluctant Debutante, The (1958)	comedy;drama
+2557	movie	Warriors of Virtue (1997)	action;adventure;children's;fantasy
+2558	movie	Desert Winds (1995)	drama
+2559	movie	Hugo Pool (1997)	romance
+2560	movie	King of New York (1990)	action;crime
+2561	movie	All Things Fair (1996)	drama
+2562	movie	Sixth Man, The (1997)	comedy
+2563	movie	Butterfly Kiss (1995)	thriller
+2564	movie	Paris, France (1993)	comedy
+2565	movie	Crmonie, La (1995)	drama
+2566	movie	Hush (1998)	thriller
+2567	movie	Nightwatch (1997)	horror;thriller
+2568	movie	Nobody Loves Me (Keiner liebt mich) (1994)	comedy;drama
+2569	movie	Wife, The (1995)	comedy;drama
+2570	movie	Lamerica (1994)	drama
+2571	movie	Nico Icon (1995)	documentary
+2572	movie	Silence of the Palace, The (Saimt el Qusur) (1994)	drama
+2573	movie	Slingshot, The (1993)	comedy;drama
+2574	movie	Land and Freedom (Tierra y libertad) (1995)	war
+2575	movie	 kldum klaka (Cold Fever) (1994)	comedy;drama
+2576	movie	Etz Hadomim Tafus (Under the Domin Tree) (1994)	drama
+2577	movie	Two Friends (1986) 	drama
+2578	movie	Brothers in Trouble (1995)	drama
+2579	movie	Girls Town (1996)	drama
+2580	movie	Normal Life (1996)	crime;drama
+2581	movie	Bitter Sugar (Azucar Amargo) (1996)	drama
+2582	movie	Eighth Day, The (1996)	drama
+2583	movie	Dadetown (1995)	documentary
+2584	movie	Some Mother's Son (1996)	drama
+2585	movie	Angel Baby (1995)	drama
+2586	movie	Sudden Manhattan (1996)	comedy
+2587	movie	Butcher Boy, The (1998)	drama
+2588	movie	Men With Guns (1997)	action;drama
+2589	movie	Hana-bi (1997)	comedy;crime;drama
+2590	movie	Niagara, Niagara (1997)	drama
+2591	movie	Big One, The (1997)	comedy;documentary
+2592	movie	Butcher Boy, The (1998)	drama
+2593	movie	Spanish Prisoner, The (1997)	drama;thriller
+2594	movie	Temptress Moon (Feng Yue) (1996)	romance
+2595	movie	Entertaining Angels: The Dorothy Day Story (1996)	drama
+2596	movie	Chairman of the Board (1998)	comedy
+2597	movie	Favor, The (1994)	comedy;romance
+2598	movie	Little City (1998)	comedy;romance
+2599	movie	Target (1995)	action;drama
+2600	movie	Substance of Fire, The (1996)	drama
+2601	movie	Getting Away With Murder (1996)	comedy
+2602	movie	Small Faces (1995)	drama
+2603	movie	New Age, The (1994)	drama
+2604	movie	Rough Magic (1995)	drama;romance
+2605	movie	Nothing Personal (1995)	drama;war
+2606	movie	8 Heads in a Duffel Bag (1997)	comedy
+2607	movie	Brother's Kiss, A (1997)	drama
+2608	movie	Ripe (1996)	drama
+2609	movie	Next Step, The (1995)	drama
+2610	movie	Wedding Bell Blues (1996)	comedy
+2611	movie	MURDER and murder (1996)	crime;drama;mystery
+2612	movie	Tainted (1998)	comedy;thriller
+2613	movie	Further Gesture, A (1996)	drama
+2614	movie	Kika (1993)	drama
+2615	movie	Mirage (1995)	action;thriller
+2616	movie	Mamma Roma (1962)	drama
+2617	movie	Sunchaser, The (1996)	drama
+2618	movie	War at Home, The (1996)	drama
+2619	movie	Sweet Nothing (1995)	drama
+2620	movie	Mat' i syn (1997)	drama
+2621	movie	B. Monkey (1998)	romance;thriller
+2622	movie	Sliding Doors (1998)	drama;romance
+2623	movie	You So Crazy (1994)	comedy
+2624	movie	Scream of Stone (Schrei aus Stein) (1991)	drama

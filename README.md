@@ -14,7 +14,6 @@ We will mainly focus on how to implement the algorithms of those models and how 
 
 The main contributor of this material is as follows:
 * *Jinhong Jung* (jinhongjung@snu.ac.kr)
-------
 
 ## References
 * https://en.wikipedia.org/wiki/PageRank

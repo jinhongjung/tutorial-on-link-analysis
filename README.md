@@ -9,8 +9,8 @@ This tutorial consists of four sessions, and each session will handle the follow
 * **Session 3**. Tutorial on Topic-specific PageRank (50 mins)
 * **Session 4**. Tutorial on HITS (50 mins)
 
-We recommend fully understanding link analysis (or ranking) models such as PageRank, Topic-specific PageRank, and HITS before entering this tutorial since we will **NOT** explain the theoretical backgrounds on these techniques during the tutorial. 
-We will mainly focus on how to implement the algorithms of those models and how to rank nodes in real-world graphs using those ranking models. 
+We recommend fully understanding link analysis (or ranking) models such as PageRank, Topic-specific PageRank (or Random Walk with Restart and Personalized PageRank with multiple seeds), and HITS before entering this tutorial since we will **NOT** explain the theoretical backgrounds on these techniques during the tutorial. 
+We will mainly focus on how to implement the algorithms of those models and how to rank nodes in real-world graphs using the ranking models. 
 
 The main contributor of this material is as follows:
 * *Jinhong Jung* (jinhongjung@snu.ac.kr)
